@@ -1,5 +1,32 @@
-<h1>{{title}}</h1>
-<p>Welcome to {{title}}</p>
-{{#if user}}
-<p>Lo ve {{user.username}}</p>
-{{/if}}
+<h1>Buscador de Parques Comunidad de Madrid</h1>
+<div class="container">
+  <div class="row justify-content-around">
+    <div class="col-4">
+      <label for="Parque">Parque</label>
+      <select name="" id="">
+        {{#each parks}}
+        <option value="{{_id}}">{{DS_NOMBRE}}</option>
+        {{/each}}
+      </select>
+    </div>
+  </div>
+  <div class="row justify-content-around">
+    <div class="col-2">
+      <div>primero</div>
+      <div>primero</div>
+      <div>primero</div>
+      <div>primero</div>
+      <div>primero</div>
+      <div>primero</div>
+      <div>primero</div>
+    </div>
+    <div class="col-10">
+      <figure class="heigth" id="map"></figure>
+    </div>
+  </div>
+</div>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="/javascripts/main.js"></script>
+
+<script
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDG88rK2sVwRDbZIJautuIZpNt32kAQpSU&callback=initMap"></script>
