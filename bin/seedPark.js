@@ -30,9 +30,9 @@ const parks = [
     IT_BANO: "N",
     IT_PANELES: "N",
     IT_BARBACOA: "N",
-    geometry: {
+    location: {
       type: "Point",
-      coordinates: [1, 2]
+      coordinates: [40.45001, -3.53481]
     }
   }
 ]
