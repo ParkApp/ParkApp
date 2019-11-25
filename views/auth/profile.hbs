@@ -1,0 +1,15 @@
+<h2>Perfil del Usuario</h2>
+<div class="column">
+  <label for="username">Nombre de Usuario:</label>
+  <input type="text" name="username" value="{{user.username}}">
+  <button type="submit">Editar</button>
+</div>
+<label for="favorits">Favoritos</label>
+<div class="row justify-content-around">
+  <div class="col-3">
+    {{#each}}
+    {{user.favorits}}
+    <a href="#">Eliminar</a>
+    {{/each}}
+  </div>
+</div>
