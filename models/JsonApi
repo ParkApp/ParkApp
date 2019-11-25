@@ -1,0 +1,4501 @@
+{
+type: "FeatureCollection",
+totalFeatures: 124,
+features: [
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.51",
+geometry: {
+type: "Point",
+coordinates: [
+423820.940955,
+4511623.01922
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 51,
+DS_NOMBRE: "Zona de Canto Cochino (La Pedriza)",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-608, entrada a la Pedriza / Bueno",
+DS_MUNICIPIO: "Manzanares El Real",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "S",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.52",
+geometry: {
+type: "Point",
+coordinates: [
+427770.903717,
+4509066.2286
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 52,
+DS_NOMBRE: ""Parque de los Sentidos"",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Si se llega a Manzanares desde Colmenar Viejo, se encuentra poco antes del Castillo, casi enfrente del Cuartel de la Guardia Civil",
+DS_MUNICIPIO: "Manzanares El Real",
+IT_MESA: "N",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.53",
+geometry: {
+type: "Point",
+coordinates: [
+426362.872468,
+4509009.01002
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 53,
+DS_NOMBRE: ""Cordel de los Toros"",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Tomando la Avenida de la Pedriza en dirección al Tranco, se encuentra un aparcamiento a mano derecha que da servicio a esta Área",
+DS_MUNICIPIO: "Manzanares El Real",
+IT_MESA: "N",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.54",
+geometry: {
+type: "Point",
+coordinates: [
+457910.487474,
+4472858.46799
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 54,
+DS_NOMBRE: "Las Islillas",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-203, unión de los ríos Henares y Jarama",
+DS_MUNICIPIO: "Mejorada del Campo",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.55",
+geometry: {
+type: "Point",
+coordinates: [
+433935.331701,
+4518413.15697
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 55,
+DS_NOMBRE: "Fuente del Cura",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-611 / Bueno",
+DS_MUNICIPIO: "Miraflores de la Sierra",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.56",
+geometry: {
+type: "Point",
+coordinates: [
+458850.586304,
+4550298.94426
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 56,
+DS_NOMBRE: "Junto al Hayedo de Montejo",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-139, km 5,9 / Bueno",
+DS_MUNICIPIO: "Montejo de la Sierra",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.57",
+geometry: {
+type: "Point",
+coordinates: [
+463080.408781,
+4454132.20403
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 57,
+DS_NOMBRE: "El Bosque",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-313 al llegar al núcleo urbano",
+DS_MUNICIPIO: "Morata de Tajuña",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "S",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.58",
+geometry: {
+type: "Point",
+coordinates: [
+416125.194821,
+4512429.35151
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 58,
+DS_NOMBRE: "La Barranca",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-607 / Bueno",
+DS_MUNICIPIO: "Navacerrada",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.59",
+geometry: {
+type: "Point",
+coordinates: [
+442884.04593,
+4519216.90791
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 59,
+DS_NOMBRE: "Parque de las Eras",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-625 a Navalafuente / Bueno",
+DS_MUNICIPIO: "Navalafuente",
+IT_MESA: "N",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.60",
+geometry: {
+type: "Point",
+coordinates: [
+393936.387472,
+4472391.8102
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 60,
+DS_NOMBRE: "La Pinarilla",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-501, pk 42",
+DS_MUNICIPIO: "Navas del Rey",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.61",
+geometry: {
+type: "Point",
+coordinates: [
+469196.385846,
+4455335.4872
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 61,
+DS_NOMBRE: ""Descansadero del Prado de Arriba"",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Acceso sin señalizar , situado a la izquierda, entrando a Perales de Tajuña por la antigua N-III",
+DS_MUNICIPIO: "Perales de Tajuña",
+IT_MESA: "N",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.62",
+geometry: {
+type: "Point",
+coordinates: [
+454548.779151,
+4543455.33989
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 62,
+DS_NOMBRE: ""Chozo del Pastor"",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Entrando a Prádena por la M-137, se encuentra justo a al izquierda.",
+DS_MUNICIPIO: "Prádena del Rincón",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.63",
+geometry: {
+type: "Point",
+coordinates: [
+462923.851963,
+4539241.7256
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 63,
+DS_NOMBRE: "La Tejera-Parque Avellanos",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-130, km 19,5 / Bueno",
+DS_MUNICIPIO: "Puebla de la Sierra",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.64",
+geometry: {
+type: "Point",
+coordinates: [
+425353.618564,
+4522816.53828
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 64,
+DS_NOMBRE: "La Isla",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-604, km 31,700 / Bueno",
+DS_MUNICIPIO: "Rascafria",
+IT_MESA: "N",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "S",
+IT_ASEOS: "S",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.65",
+geometry: {
+type: "Point",
+coordinates: [
+425795.576035,
+4525823.82883
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 65,
+DS_NOMBRE: "Las Presillas",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-604, km 28,600 / Bueno",
+DS_MUNICIPIO: "Rascafria",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "S",
+IT_ASEOS: "S",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.66",
+geometry: {
+type: "Point",
+coordinates: [
+418979.104764,
+4519585.62327
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 66,
+DS_NOMBRE: "Puerto de Los Cotos",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-604, km 42 /Buen estado",
+DS_MUNICIPIO: "Rascafría",
+IT_MESA: "N",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "S",
+IT_ASEOS: "S",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.67",
+geometry: {
+type: "Point",
+coordinates: [
+424781.625511,
+4523368.96764
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 67,
+DS_NOMBRE: "Mirador de los Robledos/monumento al Guarda Forestal",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-604, km 31,500 - pista asfaltada (800 m) / Bueno",
+DS_MUNICIPIO: "Rascafría",
+IT_MESA: "N",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.68",
+geometry: {
+type: "Point",
+coordinates: [
+457638.790913,
+4463456.9302
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 68,
+DS_NOMBRE: "Laguna del Campillo",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "N-III, salida 18 a Rivas-Vaciamadrid, rotonda a la derecha / Regular",
+DS_MUNICIPIO: "Rivas-Vaciamadrid",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.69",
+geometry: {
+type: "Point",
+coordinates: [
+452887.074843,
+4532863.44641
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 69,
+DS_NOMBRE: "Perímetro de Casasola",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Robledillo de la Jara, M-127 km 14 / Bueno",
+DS_MUNICIPIO: "Robledillo de la Jara",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.70",
+geometry: {
+type: "Point",
+coordinates: [
+395802.318907,
+4484777.29818
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 70,
+DS_NOMBRE: "Cerro Robledillo",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-521, Robledo a Fresnedillas / Bueno",
+DS_MUNICIPIO: "Robledo de Chavela",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.71",
+geometry: {
+type: "Point",
+coordinates: [
+450234.367903,
+4551147.43647
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 71,
+DS_NOMBRE: "El Plantío",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "N-I, Desvío a Robregordo, camino asfaltado / Bueno",
+DS_MUNICIPIO: "Robregordo",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.72",
+geometry: {
+type: "Point",
+coordinates: [
+420388.623222,
+4485871.2533
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 72,
+DS_NOMBRE: "Puente del Retamar",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-505, rotonda anterior a la urbanización Molino de la Hoz / Bueno",
+DS_MUNICIPIO: "Rozas de Madrid (Las)",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.73",
+geometry: {
+type: "Point",
+coordinates: [
+456343.75303,
+4474668.35151
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 73,
+DS_NOMBRE: "Paseo de la Abujeta",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Carretera circunvalación San Fernando de Henares / Bueno",
+DS_MUNICIPIO: "San Fernando de Henares",
+IT_MESA: "N",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.74",
+geometry: {
+type: "Point",
+coordinates: [
+405256.983978,
+4496061.44368
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 74,
+DS_NOMBRE: "Tomillar",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-600, El Escorial a Guadarrama, antes de la rotonda del Hospital / Bueno",
+DS_MUNICIPIO: "San Lorenzo de El Escorial",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "S",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.75",
+geometry: {
+type: "Point",
+coordinates: [
+403620.767021,
+4496029.13969
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 75,
+DS_NOMBRE: "Penosilla",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-600, El Escorial a Guadarrama, pista forestal asfaltada / solo permitido acceso de vehículos de gestión forestal",
+DS_MUNICIPIO: "San Lorenzo de El Escorial",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.76",
+geometry: {
+type: "Point",
+coordinates: [
+400431.862986,
+4494157.36225
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 76,
+DS_NOMBRE: "Los Llanillos",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-600, El Escorial a Guadarrama, antes del Puerto de Malagón / Bueno",
+DS_MUNICIPIO: "San Lorenzo de El Escorial",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.77",
+geometry: {
+type: "Point",
+coordinates: [
+453778.80306,
+4453488.59398
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 77,
+DS_NOMBRE: "Puente Viejo",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-506, próximo al río Jarama / Bueno",
+DS_MUNICIPIO: "San Martín de la Vega",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.78",
+geometry: {
+type: "Point",
+coordinates: [
+452060.372102,
+4451077.36827
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 78,
+DS_NOMBRE: "San Martín de la Vega",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Desde núcleo urbano hacia el río Jarama",
+DS_MUNICIPIO: "San Martín de la Vega",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.79",
+geometry: {
+type: "Point",
+coordinates: [
+389153.340264,
+4469215.24685
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 79,
+DS_NOMBRE: "Embalse de Picadas",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-501 y camino forestal asfaltado / Bueno",
+DS_MUNICIPIO: "San Martín de Valdeiglesias",
+IT_MESA: "N",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.80",
+geometry: {
+type: "Point",
+coordinates: [
+388333.998355,
+4471475.97523
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 80,
+DS_NOMBRE: "Lancha del Yelmo",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-501 y pista forestal / Malo",
+DS_MUNICIPIO: "San Martín de Valdeiglesias",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.81",
+geometry: {
+type: "Point",
+coordinates: [
+389284.342787,
+4469555.81108
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 81,
+DS_NOMBRE: "La Veguilla",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-501 / Bueno",
+DS_MUNICIPIO: "San Martín de Valdeiglesias",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.82",
+geometry: {
+type: "Point",
+coordinates: [
+444667.966777,
+4490945.00486
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 82,
+DS_NOMBRE: "Dehesa Boyal",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "N-I a San Sebastián de los Reyes, carretera polideportivo municipal / Regular",
+DS_MUNICIPIO: "San Sebastián de los Reyes",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.83",
+geometry: {
+type: "Point",
+coordinates: [
+479291.814576,
+4481276.89052
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 83,
+DS_NOMBRE: "Parque Forestal La Dehesa",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-226, pk 0,5",
+DS_MUNICIPIO: "Santorcaz",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.84",
+geometry: {
+type: "Point",
+coordinates: [
+411690.599805,
+4468494.69276
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 84,
+DS_NOMBRE: "Dehesa de Sevilla la Nueva",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-523, km 1 / Bueno",
+DS_MUNICIPIO: "Sevilla la Nueva",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.85",
+geometry: {
+type: "Point",
+coordinates: [
+414999.606945,
+4467304.66876
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 85,
+DS_NOMBRE: "Los Manantiales",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-600 a su paso por Sevilla la Nueva, rotonda con salida a Urb. Los Manantiales - c/ Av. del Guadarrama /Bueno",
+DS_MUNICIPIO: "Sevilla la Nueva",
+IT_MESA: "N",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.86",
+geometry: {
+type: "Point",
+coordinates: [
+432368.532194,
+4510837.12359
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 86,
+DS_NOMBRE: "Arroyo del Mediano",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-608 y M-862",
+DS_MUNICIPIO: "Soto del Real",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.87",
+geometry: {
+type: "Point",
+coordinates: [
+456431.363131,
+4513472.50932
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 87,
+DS_NOMBRE: "Puente Nuevo (Huelga de San Bartolomé)",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "N-320 / Bueno",
+DS_MUNICIPIO: "Talamanca de Jarama",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.88",
+geometry: {
+type: "Point",
+coordinates: [
+456167.673987,
+4511587.48105
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 88,
+DS_NOMBRE: "Puente Romano",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-120 / Bueno",
+DS_MUNICIPIO: "Talamanca de Jarama",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "S",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.89",
+geometry: {
+type: "Point",
+coordinates: [
+451103.352011,
+4520989.06878
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 89,
+DS_NOMBRE: "Valgallego",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-313, Torrelaguna a La Cabrera, km 8 / Bueno",
+DS_MUNICIPIO: "Torrelaguna",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.90",
+geometry: {
+type: "Point",
+coordinates: [
+466409.689841,
+4446460.30999
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 90,
+DS_NOMBRE: "La Fuente de Valviejo",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-315, km 9,7",
+DS_MUNICIPIO: "Valdelaguna",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.91",
+geometry: {
+type: "Point",
+coordinates: [
+389890.483314,
+4482643.88896
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 91,
+DS_NOMBRE: "El Puente (Valdemaqueda)",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Dirección Puente Romano - Valdemaqueda",
+DS_MUNICIPIO: "Valdemaqueda",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.92",
+geometry: {
+type: "Point",
+coordinates: [
+444050.338795,
+4449027.4384
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 92,
+DS_NOMBRE: "Bolitas de Airón",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Desde núcleo urbano",
+DS_MUNICIPIO: "Valdemoro",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.93",
+geometry: {
+type: "Point",
+coordinates: [
+459722.656353,
+4466009.71023
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 93,
+DS_NOMBRE: "Las Lagunas / El Pinar",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-208, de Velilla a La Poveda, margen derecho / Malo",
+DS_MUNICIPIO: "Velilla de San Antonio",
+IT_MESA: "N",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.94",
+geometry: {
+type: "Point",
+coordinates: [
+392282.179592,
+4455697.85894
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 94,
+DS_NOMBRE: "Dehesa de Alhamar",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-507 / Bueno",
+DS_MUNICIPIO: "Villa del Prado",
+IT_MESA: "N",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "S",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.95",
+geometry: {
+type: "Point",
+coordinates: [
+480042.326808,
+4434995.21269
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 95,
+DS_NOMBRE: "Las Cuevas",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-326, km 9,5, en el núcleo urbano N-II, Carretera a Villamanrique de Tajo / Bueno",
+DS_MUNICIPIO: "Villamanrique de Tajo",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "S",
+IT_ASEOS: "S",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.96",
+geometry: {
+type: "Point",
+coordinates: [
+418558.766227,
+4481734.75235
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 96,
+DS_NOMBRE: "Dehesa",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Desde Villanueva del Pardillo por el camino de El Soto / Bueno",
+DS_MUNICIPIO: "Villanueva del Pardillo",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.97",
+geometry: {
+type: "Point",
+coordinates: [
+418726.523404,
+4480945.26965
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 97,
+DS_NOMBRE: "La Ermita",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Desde Villanueva del Pardillo por el camino de El Soto / Bueno",
+DS_MUNICIPIO: "Villanueva del Pardillo",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.98",
+geometry: {
+type: "Point",
+coordinates: [
+419714.892549,
+4468875.07112
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 98,
+DS_NOMBRE: "El Sotillo",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-501, junto al puente sobre el río Guadarrama por la vía de servicio / Bueno",
+DS_MUNICIPIO: "Villaviciosa de Odón",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.99",
+geometry: {
+type: "Point",
+coordinates: [
+429459.022974,
+4520458.00211
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 99,
+DS_NOMBRE: "Entorno Refugio de La Morcuera. Fuente Cossio",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-611, Km. 18 - 18,800",
+DS_MUNICIPIO: "Rascafría",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.1",
+geometry: {
+type: "Point",
+coordinates: [
+447847.396918,
+4548961.16954
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 1,
+DS_NOMBRE: "Parque Dehesa de la Acebeda",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-978, 3 km asfaltado / Bueno",
+DS_MUNICIPIO: "Acebeda (La)",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.2",
+geometry: {
+type: "Point",
+coordinates: [
+417570.341677,
+4454461.02565
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 2,
+DS_NOMBRE: "San Isidro",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-404, atravesando el polígono industrial de El Álamo / Bueno",
+DS_MUNICIPIO: "Álamo (El)",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.3",
+geometry: {
+type: "Point",
+coordinates: [
+468916.93257,
+4479226.71768
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 3,
+DS_NOMBRE: "La Isla y el Val",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-300 / Bueno",
+DS_MUNICIPIO: "Alcalá de Henares",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.4",
+geometry: {
+type: "Point",
+coordinates: [
+469382.497081,
+4479009.13529
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 4,
+DS_NOMBRE: "Las Cuestas",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-300, pk 25",
+DS_MUNICIPIO: "Alcalá de Henares",
+IT_MESA: "N",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.5",
+geometry: {
+type: "Point",
+coordinates: [
+443590.656179,
+4487142.53461
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 5,
+DS_NOMBRE: "Dehesa de Valdelatas",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-607 - polígono industrial Alcobendas / Bueno",
+DS_MUNICIPIO: "Alcobendas",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.6",
+geometry: {
+type: "Point",
+coordinates: [
+414374.820929,
+4501967.84073
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 6,
+DS_NOMBRE: "El Lavadero",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-601, pk 3, acceso por el polígono industrial de Alpedrete",
+DS_MUNICIPIO: "Alpedrete",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.7",
+geometry: {
+type: "Point",
+coordinates: [
+413480.282452,
+4499135.65468
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 7,
+DS_NOMBRE: ""Cañada Real Coruñesa"",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Apeadero de Los Negrales",
+DS_MUNICIPIO: "Alpedrete",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.8",
+geometry: {
+type: "Point",
+coordinates: [
+478146.799699,
+4480004.90203
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 8,
+DS_NOMBRE: "Parque Forestal La Dehesa",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-213, pk 8,5",
+DS_MUNICIPIO: "Anchuelo",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.9",
+geometry: {
+type: "Point",
+coordinates: [
+452821.979696,
+4432639.90534
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 9,
+DS_NOMBRE: "Soto Pavera",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-305, saliendo de Aranjuez hacia Villaconejos / Malo",
+DS_MUNICIPIO: "Aranjuez",
+IT_MESA: "N",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.10",
+geometry: {
+type: "Point",
+coordinates: [
+447258.959277,
+4432241.69165
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 10,
+DS_NOMBRE: "Rancho Grande",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-305 y calle de los Tilos / Regular",
+DS_MUNICIPIO: "Aranjuez",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.11",
+geometry: {
+type: "Point",
+coordinates: [
+449000.345672,
+4430032.48935
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 11,
+DS_NOMBRE: "Mar de Ontígola",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Desde carretera local de Aranjuez a Ontígola",
+DS_MUNICIPIO: "Aranjuez",
+IT_MESA: "N",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.12",
+geometry: {
+type: "Point",
+coordinates: [
+462741.830724,
+4457894.62731
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 12,
+DS_NOMBRE: "Fuente del Valle",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "De Arganda a Morata de Tajuña, Desvío por debajo de la autovía / Malo",
+DS_MUNICIPIO: "Arganda del Rey",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.13",
+geometry: {
+type: "Point",
+coordinates: [
+463310.922723,
+4459023.87105
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 13,
+DS_NOMBRE: "El Carrascal de Arganda",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "N-III, cerca de la residencia de ancianos "Los Almendos" / Bueno",
+DS_MUNICIPIO: "Arganda del Rey",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.14",
+geometry: {
+type: "Point",
+coordinates: [
+415499.643377,
+4507439.52229
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 14,
+DS_NOMBRE: "Alto del Hilo",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-861 / Bueno",
+DS_MUNICIPIO: "Becerril de la Sierra",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.15",
+geometry: {
+type: "Point",
+coordinates: [
+428252.50426,
+4474100.19454
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 15,
+DS_NOMBRE: "Monte Príncipe",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "2 accesos: a) desde el Hospital Montepríncipe/ Bueno // b) desde el Monte de Boadilla, acceso peatonal por el palacio del infante D. Luis / Regular",
+DS_MUNICIPIO: "Boadilla del Monte",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.16",
+geometry: {
+type: "Point",
+coordinates: [
+422109.847199,
+4505626.7703
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 16,
+DS_NOMBRE: "Puente de Madrid",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-607, en el núcleo urbano de Cerceda / Bueno",
+DS_MUNICIPIO: "Boalo (El)",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.17",
+geometry: {
+type: "Point",
+coordinates: [
+446828.82859,
+4537523.05046
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 17,
+DS_NOMBRE: "El Tomillar",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "N-I, desvío a Buitrago y vereda a pie / Regular",
+DS_MUNICIPIO: "Buitrago del Lozoya",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.18",
+geometry: {
+type: "Point",
+coordinates: [
+442256.434201,
+4523872.23223
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 18,
+DS_NOMBRE: "La Pesquera",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-610, camino / Bueno",
+DS_MUNICIPIO: "Bustarviejo",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.19",
+geometry: {
+type: "Point",
+coordinates: [
+440633.863862,
+4522872.53774
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 19,
+DS_NOMBRE: "Dehesa Vieja",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-610, camino / Regular",
+DS_MUNICIPIO: "Bustarviejo",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.20",
+geometry: {
+type: "Point",
+coordinates: [
+438806.065851,
+4523033.73308
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 20,
+DS_NOMBRE: "Fuente Collado",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-610, a la derecha, pasado Bustarviejo / Bueno",
+DS_MUNICIPIO: "Bustarviejo",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.21",
+geometry: {
+type: "Point",
+coordinates: [
+380286.249787,
+4463116.8862
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 21,
+DS_NOMBRE: "El Venero",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-541, Cadalso a Pelayos de la Presa, Pista de tierra / Bueno",
+DS_MUNICIPIO: "Cadalso de los Vidrios",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "S",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.22",
+geometry: {
+type: "Point",
+coordinates: [
+464884.491406,
+4463551.09712
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 22,
+DS_NOMBRE: "Valdemembrillo I",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Carretera M-209, pk 2,5, por camino, junto a Arroyo Valdemembrillo",
+DS_MUNICIPIO: "Campo Real",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.23",
+geometry: {
+type: "Point",
+coordinates: [
+464658.488528,
+4463454.10097
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 23,
+DS_NOMBRE: "Valdemembrillo II",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Carretera M-209, pk 2,5, por camino, junto a Arroyo Valdemembrillo",
+DS_MUNICIPIO: "Campo Real",
+IT_MESA: "N",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.24",
+geometry: {
+type: "Point",
+coordinates: [
+435538.701135,
+4524594.88364
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 24,
+DS_NOMBRE: "Puerto de Canencia",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-629, Miraflores de la Sierra a Canencia, pk 8 / Bueno",
+DS_MUNICIPIO: "Canencia",
+IT_MESA: "N",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.25",
+geometry: {
+type: "Point",
+coordinates: [
+479998.454507,
+4457114.85214
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 25,
+DS_NOMBRE: "El Pinar o Dehesa Nueva",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Entrada desde el casco urbano por el Camino de Robledillo",
+DS_MUNICIPIO: "Carabaña",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.26",
+geometry: {
+type: "Point",
+coordinates: [
+409689.067046,
+4513477.15531
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 26,
+DS_NOMBRE: "Las Dehesas",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-966 / Bueno",
+DS_MUNICIPIO: "Cercedilla",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "S",
+IT_ASEOS: "S",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.27",
+geometry: {
+type: "Point",
+coordinates: [
+465176.621587,
+4444268.55599
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 27,
+DS_NOMBRE: "Valdezarza",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-316, de Chinchón a Valdelaguna, camino a la izquierda / Regular",
+DS_MUNICIPIO: "Chinchón",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.28",
+geometry: {
+type: "Point",
+coordinates: [
+463747.358166,
+4441961.88959
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 28,
+DS_NOMBRE: "Valquejigoso",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Camino de tierra situado a la izquierda del castillo de Chinchón / Bueno",
+DS_MUNICIPIO: "Chinchón",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.29",
+geometry: {
+type: "Point",
+coordinates: [
+455990.392661,
+4443622.42512
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 29,
+DS_NOMBRE: "Laguna de San Juan",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Desde la M-404 en coord. (457650,4444830) se toma camino hacia el oeste",
+DS_MUNICIPIO: "Chinchón",
+IT_MESA: "N",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.30",
+geometry: {
+type: "Point",
+coordinates: [
+446537.85782,
+4443700.57958
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 30,
+DS_NOMBRE: "Parque Forestal Arroyo Palomero",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Zona sur del casco urbano / Bueno",
+DS_MUNICIPIO: "Ciempozuelos",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.31",
+geometry: {
+type: "Point",
+coordinates: [
+451085.369688,
+4443658.43864
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 31,
+DS_NOMBRE: "Soto Bayona",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-404, antes de llegar a Titulcia tras pasar el puente de hierro / Bueno",
+DS_MUNICIPIO: "Titulcia",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.32",
+geometry: {
+type: "Point",
+coordinates: [
+412505.112879,
+4504242.13102
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 32,
+DS_NOMBRE: "Yacimiento romano "Miaccum" (Vereda de Entretérminos)",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Desde la M-623 se toma la Calle de los Pensamientos, y en la rotonda se gira a la derecha por el camino de Fuente Vallejo",
+DS_MUNICIPIO: "Collado Mediano",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.33",
+geometry: {
+type: "Point",
+coordinates: [
+463539.920394,
+4432817.17545
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 33,
+DS_NOMBRE: "Molino de la Aldehuela",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Próxima al río Tajo, carretera M-320 por camino / Bueno",
+DS_MUNICIPIO: "Colmenar de Oreja",
+IT_MESA: "N",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.34",
+geometry: {
+type: "Point",
+coordinates: [
+435012.444064,
+4506278.03472
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 34,
+DS_NOMBRE: "Los Remedios",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-625 / Bueno",
+DS_MUNICIPIO: "Colmenar Viejo",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.35",
+geometry: {
+type: "Point",
+coordinates: [
+412634.741494,
+4491419.4904
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 35,
+DS_NOMBRE: "Ermita de Colmenarejo",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-510, c/ Cañada Real",
+DS_MUNICIPIO: "Colmenarejo",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.36",
+geometry: {
+type: "Point",
+coordinates: [
+416737.81112,
+4494739.83064
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 36,
+DS_NOMBRE: "La Navata",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-525, km 2 / Bueno",
+DS_MUNICIPIO: "Galapagar",
+IT_MESA: "N",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.37",
+geometry: {
+type: "Point",
+coordinates: [
+412925.577075,
+4497866.36664
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 37,
+DS_NOMBRE: "Área Recreativa "Cañada Real Segoviana"",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Desde el p.k. 1,6 de la carretera M-510, se entra por el Camino del Escorial, en las inmediaciones del Puente del Herreño",
+DS_MUNICIPIO: "Galapagar",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.38",
+geometry: {
+type: "Point",
+coordinates: [
+441635.277511,
+4515474.3305
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 38,
+DS_NOMBRE: "Parque del 1º de Mayo",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-608 / Bueno",
+DS_MUNICIPIO: "Guadalix de la Sierra",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.39",
+geometry: {
+type: "Point",
+coordinates: [
+442245.441285,
+4515131.98909
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 39,
+DS_NOMBRE: "Virgen del Espinar",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-608, km 6, margen derecha del río entrando al pueblo / Bueno",
+DS_MUNICIPIO: "Guadalix de la Sierra",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.40",
+geometry: {
+type: "Point",
+coordinates: [
+404680.790309,
+4502814.8671
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 40,
+DS_NOMBRE: "La Jarosa I",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-614, pasado Guadarrama por el desvío al Embalse de la Jarosa / Bueno",
+DS_MUNICIPIO: "Guadarrama",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "S",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.41",
+geometry: {
+type: "Point",
+coordinates: [
+404369.787341,
+4502496.86883
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 41,
+DS_NOMBRE: "La Jarosa II",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-614, pasado Guadarrama por el desvío al Embalse de la Jarosa / Bueno",
+DS_MUNICIPIO: "Guadarrama",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "S",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.42",
+geometry: {
+type: "Point",
+coordinates: [
+462305.956679,
+4547876.40309
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 42,
+DS_NOMBRE: "El Molino de la Hiruela",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Carretera de La Hiruela a El Cardoso y dos accesos a pie / Bueno",
+DS_MUNICIPIO: "Hiruela (La)",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.43",
+geometry: {
+type: "Point",
+coordinates: [
+449519.195959,
+4547416.581
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 43,
+DS_NOMBRE: "La Alberca y La Tejera",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "N-I, Desvío hacia Horcajo, tomar la antigua carretera / Bueno",
+DS_MUNICIPIO: "Horcajo de la Sierra",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.44",
+geometry: {
+type: "Point",
+coordinates: [
+424197.743251,
+4497748.84117
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 44,
+DS_NOMBRE: "La Cabilda",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-618, desvío al cementerio municipal",
+DS_MUNICIPIO: "Hoyo de Manzanares",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.45",
+geometry: {
+type: "Point",
+coordinates: [
+422432.574996,
+4494897.83421
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 45,
+DS_NOMBRE: "El Berzalejo",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-618 / Bueno",
+DS_MUNICIPIO: "Hoyo de Manzanares",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.46",
+geometry: {
+type: "Point",
+coordinates: [
+430616.239348,
+4536567.91375
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 46,
+DS_NOMBRE: "Las Lagunillas",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-637, Lozoya a Puerto de Navafría, km 11 / Bueno",
+DS_MUNICIPIO: "Lozoya",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.47",
+geometry: {
+type: "Point",
+coordinates: [
+430621.328156,
+4536183.27949
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 47,
+DS_NOMBRE: "El Mirador",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-637, Lozoya a Puerto de Navafría, km 9,4, Camino / Bueno",
+DS_MUNICIPIO: "Lozoya",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.48",
+geometry: {
+type: "Point",
+coordinates: [
+432584.760076,
+4536945.08531
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 48,
+DS_NOMBRE: "Peña Alta",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-637, Lozoya a Puerto de Navafría km 6,4 / Bueno",
+DS_MUNICIPIO: "Lozoya",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.49",
+geometry: {
+type: "Point",
+coordinates: [
+423842.646559,
+4480033.08237
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 49,
+DS_NOMBRE: "Dehesa de Majadahonda",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "Desde el núcleo urbano por el camino del CICAM (Centro Integral Canino de Majadahonda) / Regular",
+DS_MUNICIPIO: "Majadahonda",
+IT_MESA: "N",
+IT_BANCO: "N",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.50",
+geometry: {
+type: "Point",
+coordinates: [
+424850.463817,
+4507606.0076
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 50,
+DS_NOMBRE: "Chopera de Samburiel",
+DS_TIPO: "Área recreativa de la Comunidad de Madrid",
+CD_TIPO: "C",
+DS_ACCESO: "M-608 / Bueno",
+DS_MUNICIPIO: "Manzanares El Real",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.301",
+geometry: {
+type: "Point",
+coordinates: [
+461915,
+4453852
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 301,
+DS_NOMBRE: "Bosque de Valdegatos",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "A-3, Desvio 21 y 28, calle Barranquillos, s/n / Por camino",
+DS_MUNICIPIO: "Morata de Tajuña",
+DS_DISTANCIA: "0,8 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "S",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "S",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.302",
+geometry: {
+type: "Point",
+coordinates: [
+441366,
+4462216
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 302,
+DS_NOMBRE: "Cerro de los Ángeles",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "Autovia A-4, km 13",
+DS_MUNICIPIO: "Getafe",
+DS_DISTANCIA: "3 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "S",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "S",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.303",
+geometry: {
+type: "Point",
+coordinates: [
+391240,
+4459964
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 303,
+DS_NOMBRE: "Descansadero de la Vía",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "N-V, Salida 32 (Navalcarnero, Aldea del Fresno, Brunete) tomar carretera M-507 dirección Cadalso de los Vidrios. A la altura del Km 24, coger desvío Ermita de La Poveda. A un 1 Km aprox. / por camino a mano derecha se ve la antigua vía del ferrocarril",
+DS_MUNICIPIO: "Villa del Prado",
+DS_DISTANCIA: "2 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "S",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.304",
+geometry: {
+type: "Point",
+coordinates: [
+372411,
+4463399
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 304,
+DS_NOMBRE: "El Chorrillo",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "Calle Chorrillo con Camino Viejo de enlace a la M-501 / Regular",
+DS_MUNICIPIO: "Rozas de Puerto Real",
+DS_DISTANCIA: "0,6 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "S"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.305",
+geometry: {
+type: "Point",
+coordinates: [
+419040,
+4506029
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 305,
+DS_NOMBRE: "El Linar del Río",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "Carretera de Moralzarzal a Mataelpino, por la calle Linar del Río",
+DS_MUNICIPIO: "Moralzarzal",
+DS_DISTANCIA: "2 km (a casco urbano de Moralzarzal)",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.306",
+geometry: {
+type: "Point",
+coordinates: [
+407582,
+4492519
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 306,
+DS_NOMBRE: "Ermita de NªSª de la Herrería, Prado de los Rodeos",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "Carretera M-505, km 24",
+DS_MUNICIPIO: "El Escorial",
+DS_DISTANCIA: "3 km",
+IT_MESA: "N",
+IT_BANCO: "S",
+IT_PAPELERA: "N",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.307",
+geometry: {
+type: "Point",
+coordinates: [
+450100,
+4518307
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 307,
+DS_NOMBRE: "Fuente de Los Huertos",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "N-I, salida 50, dirección Torrelaguna por la 320, 1ª rotonda dirección Redueña / Por camino",
+DS_MUNICIPIO: "Redueña",
+DS_DISTANCIA: "1 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.308",
+geometry: {
+type: "Point",
+coordinates: [
+479209,
+4465470
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 308,
+DS_NOMBRE: "Fuente del Quemado",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "A3, salida 22 Alcalá de Henares- Campo Real, dirección Campo Real, en Campo Real tomar en la rotonda carretera M-209 dirección Villar del Olmo / Por camino",
+DS_MUNICIPIO: "Villar del Olmo",
+DS_DISTANCIA: "Junto a casco urbano",
+IT_MESA: "N",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "S",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.309",
+geometry: {
+type: "Point",
+coordinates: [
+372001,
+4463132
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 309,
+DS_NOMBRE: "Fuente Nueva o Mesa de Piedra",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "Carretera de Navalcarnero, M- 507",
+DS_MUNICIPIO: "Rozas de Puerto Real",
+DS_DISTANCIA: "1,2 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.310",
+geometry: {
+type: "Point",
+coordinates: [
+394398,
+4459315
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 310,
+DS_NOMBRE: "La Poveda",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "N-V, Salida 32 (Navalcarnero, Aldea del Fresno, Brunete) tomar carretera M-507 dirección Cadalso de los Vidrios. A la altura del Km 24, coger desvío Ermita de La Poveda.",
+DS_MUNICIPIO: "Villa del Prado",
+DS_DISTANCIA: "5 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "S",
+IT_ASEOS: "S",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "S",
+IT_BIOSALUDAB: "N",
+IT_BANO: "S",
+IT_PANELES: "N",
+IT_BARBACOA: "S"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.311",
+geometry: {
+type: "Point",
+coordinates: [
+448587,
+4504466
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 311,
+DS_NOMBRE: "Laguna de los Patos",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "Carretera A-I, salida 34 o 36, Avenida de Madrid / Bueno",
+DS_MUNICIPIO: "San Agustín de Guadalix",
+DS_DISTANCIA: "0,7 km (a casco urbano de San Agustín de Guadalix)",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "S",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.312",
+geometry: {
+type: "Point",
+coordinates: [
+388041,
+4459674
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 312,
+DS_NOMBRE: "Parque Forestal El Gurugú",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "N-V, Salida 32 (Navalcarnero, Aldea del Fresno, Brunete) tomar carretera M-507 dirección Cadalso de los Vidrios. Dentro del término municipal a la altura de la rotonda del Polígono Los Palomares, tomar 1ª salida camino Cadalso / Por camino",
+DS_MUNICIPIO: "Villa del Prado",
+DS_DISTANCIA: "0,4 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "S",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "S",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "S",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.313",
+geometry: {
+type: "Point",
+coordinates: [
+373262,
+4463541
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 313,
+DS_NOMBRE: "Parque de las Aguas",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "Cruce camino San Martín calle Las Aguas",
+DS_MUNICIPIO: "Rozas de Puerto Real",
+DS_DISTANCIA: "0,3 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "S",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.314",
+geometry: {
+type: "Point",
+coordinates: [
+475163,
+4461574
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 314,
+DS_NOMBRE: "Parque de los Pinos",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "A3, salida 35 (Perales M-220/Campo Real), tomar carretera M-229 (Valdilecha) / Por camino",
+DS_MUNICIPIO: "Valdilecha",
+DS_DISTANCIA: "1 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "S",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.315",
+geometry: {
+type: "Point",
+coordinates: [
+464351,
+4490587
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 315,
+DS_NOMBRE: "Parque Forestal del Espino",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "M-113 dirección a Fresno de Torote, tomar camino a la derecha de la Ermita en el p.k. 6,7, a 2,5 km de la salida del casco urbano. / Por camino",
+DS_MUNICIPIO: "Daganzo de Arriba",
+DS_DISTANCIA: "4 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "S",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.316",
+geometry: {
+type: "Point",
+coordinates: [
+479784,
+4465088
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 316,
+DS_NOMBRE: "Parque Forestal La Pililla",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "A3, salida 22 Alcalá de Henares- Campo Real, dirección Campo Real, en Campo Real tomar en la rotonda carretera M-209 dirección Villar del Olmo. En Villar del Olmo acceso desde calle Pililla y calle Olivo / Por camino",
+DS_MUNICIPIO: "Villar del Olmo",
+DS_DISTANCIA: "Junto a casco urbano",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "N",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.317",
+geometry: {
+type: "Point",
+coordinates: [
+461455,
+4490265
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 317,
+DS_NOMBRE: "Parque Forestal María Marzol",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "En el casco urbano de Daganzo, tomando la calle Oriente hacia el Norte hasta unirse con el camino del Monte o del Camping, a 800 metros del casco urbano / Por camino",
+DS_MUNICIPIO: "Daganzo de Arriba",
+DS_DISTANCIA: "1 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "S",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.318",
+geometry: {
+type: "Point",
+coordinates: [
+449669,
+4486048
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 318,
+DS_NOMBRE: "Pinar de San Isidro",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "Carretera M-190, km 4,5 (Antigua carretera de Barajas junto al "Estudiante")",
+DS_MUNICIPIO: "Alcobendas",
+DS_DISTANCIA: "4 km (a casco urbano de Alcobendas)",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.319",
+geometry: {
+type: "Point",
+coordinates: [
+409071,
+4508309
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 319,
+DS_NOMBRE: "Pinarcillo",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "N-VI, desvío Guadarrama, tomar M-622, llegada a los Molinos primera rotonda segunda salida, por M-622 girar a la izquierda por calle Bardaguera",
+DS_MUNICIPIO: "Los Molinos",
+DS_DISTANCIA: "0,5 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "S",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.320",
+geometry: {
+type: "Point",
+coordinates: [
+397491,
+4463747
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 320,
+DS_NOMBRE: "Playa del Alberche",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "M-507 y M-510 en Aldea del Fresno",
+DS_MUNICIPIO: "Aldea del Fresno",
+DS_DISTANCIA: "0,5 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "S",
+IT_ASEOS: "S",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "S",
+IT_BANO: "S",
+IT_PANELES: "S",
+IT_BARBACOA: "S"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.321",
+geometry: {
+type: "Point",
+coordinates: [
+436904,
+4458347
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 321,
+DS_NOMBRE: "Prado Acedinos",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "Autovia A-42, km 16. También se puede acceder en bicicleta o andando por un camino que parte del sector III",
+DS_MUNICIPIO: "Getafe",
+DS_DISTANCIA: "1,3 km (a casco urbano de Getafe)",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "N",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "N",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "S",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.322",
+geometry: {
+type: "Point",
+coordinates: [
+431192,
+4456053
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 322,
+DS_NOMBRE: "Prado de la Casa",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "La Calle Islas Medas en Humanes se continéa en un camino agrícola que lleva al Prado de la Casa / Por camino",
+DS_MUNICIPIO: "Humanes de Madrid",
+DS_DISTANCIA: "1 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "S",
+IT_ASEOS: "S",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.323",
+geometry: {
+type: "Point",
+coordinates: [
+473395,
+4454559
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 323,
+DS_NOMBRE: "Puente del Río",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "M-228, km 0,4. Junto al puente del río Tajuña y Vía Verde del Tajuña",
+DS_MUNICIPIO: "Tielmes",
+DS_DISTANCIA: "0,4 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "S",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "S",
+IT_BIOSALUDAB: "S",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.324",
+geometry: {
+type: "Point",
+coordinates: [
+456682,
+4461434
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 324,
+DS_NOMBRE: "Lagunas de Las Madres",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "A3, entre el Pk 20 - 21, tomar carretera M-832 y en el km 2, tomar camino a la derecha",
+DS_MUNICIPIO: "Arganda del Rey",
+DS_DISTANCIA: "3 km",
+IT_MESA: "S",
+IT_BANCO: "S",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "S",
+IT_SENDA: "S",
+IT_KIOSCO: "S",
+IT_ASEOS: "S",
+IT_ESTACIONAMIENTO: "S",
+IT_P_BICIS: "S",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "S",
+IT_BARBACOA: "N"
+}
+},
+{
+type: "Feature",
+id: "SIGI_MA_AREAS_RECREA.325",
+geometry: {
+type: "Point",
+coordinates: [
+455048,
+4483479
+]
+},
+geometry_name: "GEOMETRY1",
+properties: {
+CDID: 325,
+DS_NOMBRE: "Fuente Seca",
+DS_TIPO: "Área recreativa municipal",
+CD_TIPO: "M",
+DS_ACCESO: "Desde la Avenida de Torrejón, a 100 m del casco urbano / Por camino",
+DS_MUNICIPIO: "Paracuellos de Jarama",
+DS_DISTANCIA: "A 100 m del casco urbano",
+IT_MESA: "S",
+IT_BANCO: "N",
+IT_PAPELERA: "S",
+IT_CONTENEDOR: "S",
+IT_FUENTE: "S",
+IT_SENAL: "N",
+IT_JUEGOS: "N",
+IT_SENDA: "S",
+IT_KIOSCO: "N",
+IT_ASEOS: "N",
+IT_ESTACIONAMIENTO: "N",
+IT_P_BICIS: "N",
+IT_BIOSALUDAB: "N",
+IT_BANO: "N",
+IT_PANELES: "N",
+IT_BARBACOA: "N"
+}
+}
+],
+crs: {
+type: "name",
+properties: {
+name: "urn:ogc:def:crs:EPSG::25830"
+}
+}
+}
