@@ -1,7 +1,13 @@
 function getAllParksFromTheAPI(myMap) {
-  axios.get("/api")
+  //const table = document.getElementById("Mesa")
+  axios.get("/api", {
+    params: {
+      foo: 'bar'
+    }
+  })
     .then(response => {
       console.log(response)
+      //console.log(table.type)
       placePlaces(response.data, myMap)
 
     })
@@ -23,7 +29,7 @@ function placePlaces(Park, myMap) {
 function initMap() {
   const myMap = new google.maps.Map(document.getElementById('map'),
     {
-      zoom: 10,
+      zoom: 9,
       center: {
         lat: 40.40,
         lng: -3.7
