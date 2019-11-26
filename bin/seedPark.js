@@ -1,8 +1,8 @@
+require('dotenv').config()
 const mongoose = require("mongoose")
 const Park = require('../models/Park.model')
 
-const dbName = 'parkapp'
-mongoose.connect(`mongodb://localhost/${dbName}`)
+mongoose.connect(`${process.env.BDURL}`)
 Park.collection.drop()
 
 const parks = [
