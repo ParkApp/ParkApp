@@ -6,13 +6,30 @@ body {
 a {
   color: #00B7FF;
 }
-
 .navbar {
     margin-bottom: 60px;
+}
+.btn{
+  border-radius: 3px;
+  display: inline-block;
+  padding: 10px 15px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 rgba(255,255,255,0.3);
+  box-shadow: 0 1px 1px rgba(0,0,0,0.3);
 }
 .btn-dark{
   background-color: brown;
 }
+.btn-dark:hover{
+  background-color: #37B839;
+}
+.btn-dark:active{
+  background-color: #29962A;
+}
 .heigth{
   height: 400px;
+}
+.form-control{
+  height: 40px;
+  
 }
