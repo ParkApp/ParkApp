@@ -6,7 +6,7 @@ const userSchema = new Schema({
   password: String,
   email: String,
   park:{type:Schema.Types.ObjectId,ref:'Park'},
-  event:{type:Schema.Types.ObjectId,ref:'Event'}
+  event:[{type:Schema.Types.ObjectId,ref:'Event'}]
 }, {
   timestamps: true
 });
