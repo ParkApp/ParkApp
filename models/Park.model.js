@@ -8,7 +8,10 @@ const parkSchema = new Schema({
   CD_TIPO: String,
   DS_ACCESO: String,
   DS_MUNICIPIO: String,
-  IMAGEN: String,
+  IMAGEN: {
+    type: String,
+    default: "/images/parkImages/default.jpg"
+  },
   IT_MESA: {
     type: String,
     enum: ["S", "N"]
