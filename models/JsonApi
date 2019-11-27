@@ -152,8 +152,8 @@ id: "SIGI_MA_AREAS_RECREA.55",
 geometry: {
 type: "Point",
 coordinates: [
-433935.331701,
-4518413.15697
+40.405233,
+-3.496545
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -188,8 +188,8 @@ id: "SIGI_MA_AREAS_RECREA.56",
 geometry: {
 type: "Point",
 coordinates: [
-458850.586304,
-4550298.94426
+40.813190,
+-3.768194
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -224,8 +224,8 @@ id: "SIGI_MA_AREAS_RECREA.57",
 geometry: {
 type: "Point",
 coordinates: [
-463080.408781,
-4454132.20403
+41.103364,
+-3.489798
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -260,8 +260,8 @@ id: "SIGI_MA_AREAS_RECREA.58",
 geometry: {
 type: "Point",
 coordinates: [
-416125.194821,
-4512429.35151
+40.247060,
+-3.442973
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -296,8 +296,8 @@ id: "SIGI_MA_AREAS_RECREA.59",
 geometry: {
 type: "Point",
 coordinates: [
-442884.04593,
-4519216.90791
+40.749906,
+-3.993531
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -332,8 +332,8 @@ id: "SIGI_MA_AREAS_RECREA.60",
 geometry: {
 type: "Point",
 coordinates: [
-393936.387472,
-4472391.8102
+40.781373,
+-3.691413
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -368,8 +368,8 @@ id: "SIGI_MA_AREAS_RECREA.61",
 geometry: {
 type: "Point",
 coordinates: [
-469196.385846,
-4455335.4872
+40.382024,
+-4.260396
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -404,8 +404,8 @@ id: "SIGI_MA_AREAS_RECREA.62",
 geometry: {
 type: "Point",
 coordinates: [
-454548.779151,
-4543455.33989
+40.242908,
+-3.353590
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -440,8 +440,8 @@ id: "SIGI_MA_AREAS_RECREA.63",
 geometry: {
 type: "Point",
 coordinates: [
-462923.851963,
-4539241.7256
+41.044176,
+-3.540321
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -476,8 +476,8 @@ id: "SIGI_MA_AREAS_RECREA.64",
 geometry: {
 type: "Point",
 coordinates: [
-425353.618564,
-4522816.53828
+41.004260,
+-3.440863
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -512,8 +512,8 @@ id: "SIGI_MA_AREAS_RECREA.65",
 geometry: {
 type: "Point",
 coordinates: [
-425795.576035,
-4525823.82883
+40.852465,
+-3.885314
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -548,8 +548,8 @@ id: "SIGI_MA_AREAS_RECREA.66",
 geometry: {
 type: "Point",
 coordinates: [
-418979.104764,
-4519585.62327
+40.880433,
+-3.879452
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -584,8 +584,8 @@ id: "SIGI_MA_AREAS_RECREA.67",
 geometry: {
 type: "Point",
 coordinates: [
-424781.625511,
-4523368.96764
+40.823569,
+-3.961046
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -620,8 +620,8 @@ id: "SIGI_MA_AREAS_RECREA.68",
 geometry: {
 type: "Point",
 coordinates: [
-457638.790913,
-4463456.9302
+40.858639,
+-3.896918
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -656,8 +656,8 @@ id: "SIGI_MA_AREAS_RECREA.69",
 geometry: {
 type: "Point",
 coordinates: [
-452887.074843,
-4532863.44641
+40.320477,
+-3.503912
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -692,8 +692,8 @@ id: "SIGI_MA_AREAS_RECREA.70",
 geometry: {
 type: "Point",
 coordinates: [
-395802.318907,
-4484777.29818
+40.952085,
+-3.521975
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -728,8 +728,8 @@ id: "SIGI_MA_AREAS_RECREA.71",
 geometry: {
 type: "Point",
 coordinates: [
-450234.367903,
-4551147.43647
+40.507180,
+-4.227672
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -764,8 +764,8 @@ id: "SIGI_MA_AREAS_RECREA.72",
 geometry: {
 type: "Point",
 coordinates: [
-420388.623222,
-4485871.2533
+41.107726,
+-3.472032
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -800,8 +800,8 @@ id: "SIGI_MA_AREAS_RECREA.73",
 geometry: {
 type: "Point",
 coordinates: [
-456343.75303,
-4474668.35151
+40.520388,
+-3.938872
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -836,8 +836,8 @@ id: "SIGI_MA_AREAS_RECREA.74",
 geometry: {
 type: "Point",
 coordinates: [
-405256.983978,
-4496061.44368
+40.454823,
+-3.600443
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -872,8 +872,8 @@ id: "SIGI_MA_AREAS_RECREA.75",
 geometry: {
 type: "Point",
 coordinates: [
-403620.767021,
-4496029.13969
+40.465286,
+-3.590643
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -908,8 +908,8 @@ id: "SIGI_MA_AREAS_RECREA.76",
 geometry: {
 type: "Point",
 coordinates: [
-400431.862986,
-4494157.36225
+40.592154,
+-4.140033
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -944,8 +944,8 @@ id: "SIGI_MA_AREAS_RECREA.77",
 geometry: {
 type: "Point",
 coordinates: [
-453778.80306,
-4453488.59398
+40.592577,
+-4.175486
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -980,8 +980,8 @@ id: "SIGI_MA_AREAS_RECREA.78",
 geometry: {
 type: "Point",
 coordinates: [
-452060.372102,
-4451077.36827
+40.439313,
+-3.726957
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1016,8 +1016,8 @@ id: "SIGI_MA_AREAS_RECREA.79",
 geometry: {
 type: "Point",
 coordinates: [
-389153.340264,
-4469215.24685
+40.214719,
+-3.574283
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1052,8 +1052,8 @@ id: "SIGI_MA_AREAS_RECREA.80",
 geometry: {
 type: "Point",
 coordinates: [
-388333.998355,
-4471475.97523
+40.339693,
+-4.261211
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1088,8 +1088,8 @@ id: "SIGI_MA_AREAS_RECREA.81",
 geometry: {
 type: "Point",
 coordinates: [
-389284.342787,
-4469555.81108
+40.386299,
+-4.317262
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1124,8 +1124,8 @@ id: "SIGI_MA_AREAS_RECREA.82",
 geometry: {
 type: "Point",
 coordinates: [
-444667.966777,
-4490945.00486
+40.380081,
+-4.343590
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1160,8 +1160,8 @@ id: "SIGI_MA_AREAS_RECREA.83",
 geometry: {
 type: "Point",
 coordinates: [
-479291.814576,
-4481276.89052
+40.562876,
+-3.630436
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1196,8 +1196,8 @@ id: "SIGI_MA_AREAS_RECREA.84",
 geometry: {
 type: "Point",
 coordinates: [
-411690.599805,
-4468494.69276
+40.482579,
+-3.244255
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1232,8 +1232,8 @@ id: "SIGI_MA_AREAS_RECREA.85",
 geometry: {
 type: "Point",
 coordinates: [
-414999.606945,
-4467304.66876
+40.423924,
+-3.920989
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1268,8 +1268,8 @@ id: "SIGI_MA_AREAS_RECREA.86",
 geometry: {
 type: "Point",
 coordinates: [
-432368.532194,
-4510837.12359
+40.622959,
+-3.908694
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1304,8 +1304,8 @@ id: "SIGI_MA_AREAS_RECREA.87",
 geometry: {
 type: "Point",
 coordinates: [
-456431.363131,
-4513472.50932
+40.773201,
+-3.825301
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1340,8 +1340,8 @@ id: "SIGI_MA_AREAS_RECREA.88",
 geometry: {
 type: "Point",
 coordinates: [
-456167.673987,
-4511587.48105
+40.749149,
+-3.503772
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1376,8 +1376,8 @@ id: "SIGI_MA_AREAS_RECREA.89",
 geometry: {
 type: "Point",
 coordinates: [
-451103.352011,
-4520989.06878
+40.771759,
+-3.516099
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1412,8 +1412,8 @@ id: "SIGI_MA_AREAS_RECREA.90",
 geometry: {
 type: "Point",
 coordinates: [
-466409.689841,
-4446460.30999
+40.839655,
+-3.577904
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1448,8 +1448,8 @@ id: "SIGI_MA_AREAS_RECREA.91",
 geometry: {
 type: "Point",
 coordinates: [
-389890.483314,
-4482643.88896
+40.171151,
+-3.386177
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1484,8 +1484,8 @@ id: "SIGI_MA_AREAS_RECREA.92",
 geometry: {
 type: "Point",
 coordinates: [
-444050.338795,
-4449027.4384
+40.439484,
+ -3.675573
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1520,8 +1520,8 @@ id: "SIGI_MA_AREAS_RECREA.93",
 geometry: {
 type: "Point",
 coordinates: [
-459722.656353,
-4466009.71023
+40.192541,
+-3.659885
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1556,8 +1556,8 @@ id: "SIGI_MA_AREAS_RECREA.94",
 geometry: {
 type: "Point",
 coordinates: [
-392282.179592,
-4455697.85894
+40.366713,
+-3.485792
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1592,8 +1592,8 @@ id: "SIGI_MA_AREAS_RECREA.95",
 geometry: {
 type: "Point",
 coordinates: [
-480042.326808,
-4434995.21269
+40.279818,
+-4.316296
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1628,8 +1628,8 @@ id: "SIGI_MA_AREAS_RECREA.96",
 geometry: {
 type: "Point",
 coordinates: [
-418558.766227,
-4481734.75235
+40.084104,
+-3.237709
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1664,8 +1664,8 @@ id: "SIGI_MA_AREAS_RECREA.97",
 geometry: {
 type: "Point",
 coordinates: [
-418726.523404,
-4480945.26965
+40.498304,
+ -3.969306
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1700,8 +1700,8 @@ id: "SIGI_MA_AREAS_RECREA.98",
 geometry: {
 type: "Point",
 coordinates: [
-419714.892549,
-4468875.07112
+40.497359,
+ -3.965999
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1736,8 +1736,8 @@ id: "SIGI_MA_AREAS_RECREA.99",
 geometry: {
 type: "Point",
 coordinates: [
-429459.022974,
-4520458.00211
+40.353198,
+-3.901527
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1772,8 +1772,8 @@ id: "SIGI_MA_AREAS_RECREA.1",
 geometry: {
 type: "Point",
 coordinates: [
-447847.396918,
-4548961.16954
+40.832216,
+-3.837030
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1808,8 +1808,8 @@ id: "SIGI_MA_AREAS_RECREA.2",
 geometry: {
 type: "Point",
 coordinates: [
-417570.341677,
-4454461.02565
+40.347331,
+-3.682902
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1844,8 +1844,8 @@ id: "SIGI_MA_AREAS_RECREA.3",
 geometry: {
 type: "Point",
 coordinates: [
-468916.93257,
-4479226.71768
+40.234685,
+-3.995136
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1880,8 +1880,8 @@ id: "SIGI_MA_AREAS_RECREA.4",
 geometry: {
 type: "Point",
 coordinates: [
-469382.497081,
-4479009.13529
+40.463872,
+-3.365851
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1916,8 +1916,8 @@ id: "SIGI_MA_AREAS_RECREA.5",
 geometry: {
 type: "Point",
 coordinates: [
-443590.656179,
-4487142.53461
+40.483981,
+-3.358867
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -1952,9 +1952,8 @@ id: "SIGI_MA_AREAS_RECREA.6",
 geometry: {
 type: "Point",
 coordinates: [
-414374.820929,
-4501967.84073
-]
+40.533554,
+-3.692634
 },
 geometry_name: "GEOMETRY1",
 properties: {
@@ -1988,8 +1987,8 @@ id: "SIGI_MA_AREAS_RECREA.7",
 geometry: {
 type: "Point",
 coordinates: [
-413480.282452,
-4499135.65468
+40.659591,
+-4.029744
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2024,8 +2023,8 @@ id: "SIGI_MA_AREAS_RECREA.8",
 geometry: {
 type: "Point",
 coordinates: [
-478146.799699,
-4480004.90203
+40.639346,
+-4.025779
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2060,8 +2059,8 @@ id: "SIGI_MA_AREAS_RECREA.9",
 geometry: {
 type: "Point",
 coordinates: [
-452821.979696,
-4432639.90534
+40.476485,
+-3.363861
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2096,8 +2095,8 @@ id: "SIGI_MA_AREAS_RECREA.10",
 geometry: {
 type: "Point",
 coordinates: [
-447258.959277,
-4432241.69165
+40.034432,
+-3.586039
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2132,8 +2131,8 @@ id: "SIGI_MA_AREAS_RECREA.11",
 geometry: {
 type: "Point",
 coordinates: [
-449000.345672,
-4430032.48935
+40.031708,
+-3.607348
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2168,8 +2167,8 @@ id: "SIGI_MA_AREAS_RECREA.12",
 geometry: {
 type: "Point",
 coordinates: [
-462741.830724,
-4457894.62731
+40.052894,
+-3.609670
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2204,8 +2203,8 @@ id: "SIGI_MA_AREAS_RECREA.13",
 geometry: {
 type: "Point",
 coordinates: [
-463310.922723,
-4459023.87105
+40.269724,
+ -3.434256
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2240,8 +2239,8 @@ id: "SIGI_MA_AREAS_RECREA.14",
 geometry: {
 type: "Point",
 coordinates: [
-415499.643377,
-4507439.52229
+40.288246,
+-3.449604
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2276,8 +2275,8 @@ id: "SIGI_MA_AREAS_RECREA.15",
 geometry: {
 type: "Point",
 coordinates: [
-428252.50426,
-4474100.19454
+40.713515,
+-3.999950
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2312,8 +2311,8 @@ id: "SIGI_MA_AREAS_RECREA.16",
 geometry: {
 type: "Point",
 coordinates: [
-422109.847199,
-4505626.7703
+40.409714,
+-3.860927
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2348,8 +2347,8 @@ id: "SIGI_MA_AREAS_RECREA.17",
 geometry: {
 type: "Point",
 coordinates: [
-446828.82859,
-4537523.05046
+40.715051,
+-3.919376
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2384,8 +2383,8 @@ id: "SIGI_MA_AREAS_RECREA.18",
 geometry: {
 type: "Point",
 coordinates: [
-442256.434201,
-4523872.23223
+40.979443,
+-3.646797
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2420,8 +2419,8 @@ id: "SIGI_MA_AREAS_RECREA.19",
 geometry: {
 type: "Point",
 coordinates: [
-440633.863862,
-4522872.53774
+40.858886,
+-3.685939
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2456,8 +2455,8 @@ id: "SIGI_MA_AREAS_RECREA.20",
 geometry: {
 type: "Point",
 coordinates: [
-438806.065851,
-4523033.73308
+40.373899,
+-3.614927
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2492,8 +2491,8 @@ id: "SIGI_MA_AREAS_RECREA.21",
 geometry: {
 type: "Point",
 coordinates: [
-380286.249787,
-4463116.8862
+40.855422,
+-3.730288
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2528,8 +2527,8 @@ id: "SIGI_MA_AREAS_RECREA.22",
 geometry: {
 type: "Point",
 coordinates: [
-464884.491406,
-4463551.09712
+40.311494,
+-4.436196
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2564,8 +2563,8 @@ id: "SIGI_MA_AREAS_RECREA.23",
 geometry: {
 type: "Point",
 coordinates: [
-464658.488528,
-4463454.10097
+40.341961,
+-3.384049
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2600,8 +2599,8 @@ id: "SIGI_MA_AREAS_RECREA.24",
 geometry: {
 type: "Point",
 coordinates: [
-435538.701135,
-4524594.88364
+40.339540,
+-3.376483
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2636,8 +2635,8 @@ id: "SIGI_MA_AREAS_RECREA.25",
 geometry: {
 type: "Point",
 coordinates: [
-479998.454507,
-4457114.85214
+40.870494,
+ -3.765257
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2672,8 +2671,8 @@ id: "SIGI_MA_AREAS_RECREA.26",
 geometry: {
 type: "Point",
 coordinates: [
-409689.067046,
-4513477.15531
+40.264435,
+-3.235201
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2708,8 +2707,8 @@ id: "SIGI_MA_AREAS_RECREA.27",
 geometry: {
 type: "Point",
 coordinates: [
-465176.621587,
-4444268.55599
+40.744638,
+-4.042186
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2744,8 +2743,8 @@ id: "SIGI_MA_AREAS_RECREA.28",
 geometry: {
 type: "Point",
 coordinates: [
-463747.358166,
-4441961.88959
+40.463768,
+ -3.708301
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2780,8 +2779,8 @@ id: "SIGI_MA_AREAS_RECREA.29",
 geometry: {
 type: "Point",
 coordinates: [
-455990.392661,
-4443622.42512
+40.126833,
+ -3.426036
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2816,8 +2815,8 @@ id: "SIGI_MA_AREAS_RECREA.30",
 geometry: {
 type: "Point",
 coordinates: [
-446537.85782,
-4443700.57958
+40.139846,
+-3.523787
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2852,8 +2851,8 @@ id: "SIGI_MA_AREAS_RECREA.31",
 geometry: {
 type: "Point",
 coordinates: [
-451085.369688,
-4443658.43864
+40.260459,
+-3.859129
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2888,8 +2887,8 @@ id: "SIGI_MA_AREAS_RECREA.32",
 geometry: {
 type: "Point",
 coordinates: [
-412505.112879,
-4504242.13102
+40.137560,
+-3.573829
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2924,8 +2923,8 @@ id: "SIGI_MA_AREAS_RECREA.33",
 geometry: {
 type: "Point",
 coordinates: [
-463539.920394,
-4432817.17545
+40.674067,
+-4.053135
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2960,8 +2959,8 @@ id: "SIGI_MA_AREAS_RECREA.34",
 geometry: {
 type: "Point",
 coordinates: [
-435012.444064,
-4506278.03472
+40.106043,
+-3.394453
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -2996,8 +2995,8 @@ id: "SIGI_MA_AREAS_RECREA.35",
 geometry: {
 type: "Point",
 coordinates: [
-412634.741494,
-4491419.4904
+40.662955,
+-3.784280
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3032,8 +3031,8 @@ id: "SIGI_MA_AREAS_RECREA.36",
 geometry: {
 type: "Point",
 coordinates: [
-416737.81112,
-4494739.83064
+40.569556,
+-4.032148
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3068,8 +3067,8 @@ id: "SIGI_MA_AREAS_RECREA.37",
 geometry: {
 type: "Point",
 coordinates: [
-412925.577075,
-4497866.36664
+40.563100,
+-4.017347
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3104,8 +3103,8 @@ id: "SIGI_MA_AREAS_RECREA.38",
 geometry: {
 type: "Point",
 coordinates: [
-441635.277511,
-4515474.3305
+40.563001,
+-4.013099
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3140,8 +3139,8 @@ id: "SIGI_MA_AREAS_RECREA.39",
 geometry: {
 type: "Point",
 coordinates: [
-442245.441285,
-4515131.98909
+40.552711,
+-3.892575
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3176,8 +3175,8 @@ id: "SIGI_MA_AREAS_RECREA.40",
 geometry: {
 type: "Point",
 coordinates: [
-404680.790309,
-4502814.8671
+40.780001,
+-3.671296
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3212,8 +3211,8 @@ id: "SIGI_MA_AREAS_RECREA.41",
 geometry: {
 type: "Point",
 coordinates: [
-404369.787341,
-4502496.86883
+40.667454,
+-4.088089
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3248,8 +3247,8 @@ id: "SIGI_MA_AREAS_RECREA.42",
 geometry: {
 type: "Point",
 coordinates: [
-462305.956679,
-4547876.40309
+40.664480,
+-4.085376
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3284,8 +3283,8 @@ id: "SIGI_MA_AREAS_RECREA.43",
 geometry: {
 type: "Point",
 coordinates: [
-449519.195959,
-4547416.581
+41.004168,
+-3.440987
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3320,8 +3319,8 @@ id: "SIGI_MA_AREAS_RECREA.44",
 geometry: {
 type: "Point",
 coordinates: [
-424197.743251,
-4497748.84117
+41.066844,
+-3.588698
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3356,8 +3355,8 @@ id: "SIGI_MA_AREAS_RECREA.45",
 geometry: {
 type: "Point",
 coordinates: [
-422432.574996,
-4494897.83421
+40.627721,
+-3.895613
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3392,8 +3391,8 @@ id: "SIGI_MA_AREAS_RECREA.46",
 geometry: {
 type: "Point",
 coordinates: [
-430616.239348,
-4536567.91375
+40.601339,
+-3.914877
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3428,8 +3427,8 @@ id: "SIGI_MA_AREAS_RECREA.47",
 geometry: {
 type: "Point",
 coordinates: [
-430621.328156,
-4536183.27949
+40.977758,
+-3.833150
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3464,8 +3463,8 @@ id: "SIGI_MA_AREAS_RECREA.48",
 geometry: {
 type: "Point",
 coordinates: [
-432584.760076,
-4536945.08531
+40.515121,
+-3.903318
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3500,8 +3499,8 @@ id: "SIGI_MA_AREAS_RECREA.49",
 geometry: {
 type: "Point",
 coordinates: [
-423842.646559,
-4480033.08237
+40.751073,
+-3.896392
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3536,8 +3535,8 @@ id: "SIGI_MA_AREAS_RECREA.50",
 geometry: {
 type: "Point",
 coordinates: [
-424850.463817,
-4507606.0076
+40.477784,
+-3.882132
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3572,8 +3571,8 @@ id: "SIGI_MA_AREAS_RECREA.301",
 geometry: {
 type: "Point",
 coordinates: [
-461915,
-4453852
+40.726891,
+-3.869549
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3609,8 +3608,8 @@ id: "SIGI_MA_AREAS_RECREA.302",
 geometry: {
 type: "Point",
 coordinates: [
-441366,
-4462216
+40.235846,
+-3.432818
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3646,8 +3645,8 @@ id: "SIGI_MA_AREAS_RECREA.303",
 geometry: {
 type: "Point",
 coordinates: [
-391240,
-4459964
+40.321197,
+-3.722561
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3683,8 +3682,8 @@ id: "SIGI_MA_AREAS_RECREA.304",
 geometry: {
 type: "Point",
 coordinates: [
-372411,
-4463399
+40.279827,
+-4.316327
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3720,8 +3719,8 @@ id: "SIGI_MA_AREAS_RECREA.305",
 geometry: {
 type: "Point",
 coordinates: [
-419040,
-4506029
+40.489228,
+ -3.379926
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3757,8 +3756,8 @@ id: "SIGI_MA_AREAS_RECREA.306",
 geometry: {
 type: "Point",
 coordinates: [
-407582,
-4492519
+40.698728,
+-3.968917
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3794,8 +3793,8 @@ id: "SIGI_MA_AREAS_RECREA.307",
 geometry: {
 type: "Point",
 coordinates: [
-450100,
-4518307
+40.591292,
+-4.142674
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3831,8 +3830,8 @@ id: "SIGI_MA_AREAS_RECREA.308",
 geometry: {
 type: "Point",
 coordinates: [
-479209,
-4465470
+40.539634,
+-3.639377
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3868,8 +3867,8 @@ id: "SIGI_MA_AREAS_RECREA.309",
 geometry: {
 type: "Point",
 coordinates: [
-372001,
-4463132
+40.336092,
+3.237700
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3905,8 +3904,8 @@ id: "SIGI_MA_AREAS_RECREA.310",
 geometry: {
 type: "Point",
 coordinates: [
-394398,
-4459315
+40.309328,
+-4.492179
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3942,8 +3941,8 @@ id: "SIGI_MA_AREAS_RECREA.311",
 geometry: {
 type: "Point",
 coordinates: [
-448587,
-4504466
+40.650887,
+-4.006619
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -3979,8 +3978,8 @@ id: "SIGI_MA_AREAS_RECREA.312",
 geometry: {
 type: "Point",
 coordinates: [
-388041,
-4459674
+40.689666,
+-3.609804
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -4016,8 +4015,8 @@ id: "SIGI_MA_AREAS_RECREA.313",
 geometry: {
 type: "Point",
 coordinates: [
-373262,
-4463541
+40.464710,
+ -3.335228
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -4053,8 +4052,8 @@ id: "SIGI_MA_AREAS_RECREA.314",
 geometry: {
 type: "Point",
 coordinates: [
-475163,
-4461574
+40.264304,
+ -3.919913
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -4090,8 +4089,8 @@ id: "SIGI_MA_AREAS_RECREA.315",
 geometry: {
 type: "Point",
 coordinates: [
-464351,
-4490587
+40.302556,
+ -3.291016
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -4127,8 +4126,8 @@ id: "SIGI_MA_AREAS_RECREA.316",
 geometry: {
 type: "Point",
 coordinates: [
-479784,
-4465088
+40.543290,
+-3.454238
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -4164,8 +4163,8 @@ id: "SIGI_MA_AREAS_RECREA.317",
 geometry: {
 type: "Point",
 coordinates: [
-461455,
-4490265
+40.337140,
+-3.234444
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -4201,8 +4200,8 @@ id: "SIGI_MA_AREAS_RECREA.318",
 geometry: {
 type: "Point",
 coordinates: [
-449669,
-4486048
+40.562249,
+-3.454938
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -4238,8 +4237,8 @@ id: "SIGI_MA_AREAS_RECREA.319",
 geometry: {
 type: "Point",
 coordinates: [
-409071,
-4508309
+40.524007,
+-3.594662
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -4275,8 +4274,8 @@ id: "SIGI_MA_AREAS_RECREA.320",
 geometry: {
 type: "Point",
 coordinates: [
-397491,
-4463747
+40.440956,
+ -3.627133
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -4312,8 +4311,8 @@ id: "SIGI_MA_AREAS_RECREA.321",
 geometry: {
 type: "Point",
 coordinates: [
-436904,
-4458347
+40.321003,
+ -4.198512
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -4349,8 +4348,8 @@ id: "SIGI_MA_AREAS_RECREA.322",
 geometry: {
 type: "Point",
 coordinates: [
-431192,
-4456053
+40.275914
+-3.747949
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -4386,8 +4385,8 @@ id: "SIGI_MA_AREAS_RECREA.323",
 geometry: {
 type: "Point",
 coordinates: [
-473395,
-4454559
+40.248102,
+-3.824215
 ]
 },
 geometry_name: "GEOMETRY1",
@@ -4423,9 +4422,8 @@ id: "SIGI_MA_AREAS_RECREA.324",
 geometry: {
 type: "Point",
 coordinates: [
-456682,
-4461434
-]
+40.385855,
+-3.415759,
 },
 geometry_name: "GEOMETRY1",
 properties: {
@@ -4460,8 +4458,8 @@ id: "SIGI_MA_AREAS_RECREA.325",
 geometry: {
 type: "Point",
 coordinates: [
-455048,
-4483479
+40.300264,
+-3.509606
 ]
 },
 geometry_name: "GEOMETRY1",

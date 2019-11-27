@@ -28,7 +28,7 @@ router.post("/signup", (req, res, next) => {
   const username = req.body.username;
   const password = req.body.password;
   const email = req.body.email;
-  if (username === "" || password === "" || email==="") {
+  if (username === "" || password === "" || email === "") {
     res.render("auth/signup", { message: "Indicate username,password or email" });
     return;
   }
@@ -45,7 +45,7 @@ router.post("/signup", (req, res, next) => {
     const newUser = new User({
       username,
       password: hashPass,
-      email ,
+      email,
     });
 
     newUser.save()
@@ -65,6 +65,7 @@ router.get("/logout", (req, res) => {
 
 router.get("/profile", (req, res) => {
   User.findById(req.user._id)
+    .populate("event")
     .then(theUser => res.render("auth/profile", ({ user: theUser })))
     .catch(err => console.log("error al recobrar info BBDD ", err))
 
@@ -73,29 +74,38 @@ router.post("/profile", (req, res) => {
 })
 
 router.get("/detail", (req, res) => {
-  
   Event.findById(req.params._id)
-    .then(theEvent=> {
+    .then(theEvent => {
       console.log("hola")
-      res.render('auth/detail-event', { event:theEvent })})
+      res.render('auth/detail-event', { event: theEvent })
+    })
     .catch(err => console.log("Error consultando la BBDD:", err))
 })
 
 //--- Nuevo evento----
-router.get('/add', (req,res)=>{
-res.render('auth/new-event',{user:req.user})
-//console.log(req.user)
+router.get('/add', (req, res) => {
+  res.render('auth/new-event', { user: req.user })
+  //console.log(req.user)
 })
 
 //-- Nuevo evento enviar formulario--
 
-  router.post('/add' ,(req,res)=>{
-    const {date,description,email} = req.body
-    const user=req.user._id
-  Event.create({date,description,email,user})
+router.post('/add', (req, res) => {
 
-  .then(x=>res.redirect('/'))
-  .catch(err => 'error:' + err)
+  const { date, description, email } = req.body
+  const user = req.user._id
+  Event.create({ date, description, email, user })
+
+    .then(event => {
+      console.log(event)
+      User.findByIdAndUpdate(user, { $addToSet: { event: event._id } })
+        .then(user => {
+
+          res.redirect('/')
+        })
+
+    })
+    .catch(err => 'error:' + err)
 
 })
 module.exports = router;
