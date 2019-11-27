@@ -1,103 +1,114 @@
-const checked = []
 document.addEventListener('DOMContentLoaded', () => {
+  const checked = []
 
-  document.getElementById("Mesa").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_MESA: "S" })
-      console.log(checked)
-    }
-  }
-  document.getElementById("Banco").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_BANCO: "S" })
-      console.log(checked)
-    }
-  }
-  document.getElementById("Papelera").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_PAPELERA: "S" })
-      console.log(checked)
-    }
-  }
-  document.getElementById("Contenedor").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_CONTENEDOR: "S" })
-      console.log(checked)
-    }
-  }
-  document.getElementById("Fuente").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_FUENTE: "S" })
-      console.log(checked)
-    }
-  }
-  document.getElementById("Senal").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_SENAL: "S" })
-      console.log(checked)
-    }
-  }
-  document.getElementById("Juegos").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_JUEGOS: "S" })
-      console.log(checked)
-    }
-  }
-  document.getElementById("Senda").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_SENDA: "S" })
-      console.log(checked)
-    }
-  }
-  document.getElementById("Kiosco").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_KIOSCO: "S" })
-      console.log(checked)
-    }
-  }
-  document.getElementById("Aseos").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_ASEOS: "S" })
-      console.log(checked)
-    }
-  }
-  document.getElementById("Estacionamiento").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_ESTACIONAMIENTO: "S" })
-      console.log(checked)
-    }
-  }
-  document.getElementById("Bicis").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_P_BICIS: "S" })
-      console.log(checked)
-    } else {
-      let place = Number
+  const select = document.getElementsByClassName('find')
+  const boton = document.getElementById("button")
+  const prueba = document.getElementById("prueba")
+  const linkGo = document.getElementById('goTo')
 
-      checked.forEach((elm, idx) => {
-        if (elm.IT_P_BICIS == "S") {
-          checked.splice(idx, 1)
+  // buttonGo.onclick = (e) => {
+  //   let parkSelect = prueba.options.selectedIndex
+  //   const selectId = prueba[parkSelect].value
+
+  // }
+  if (prueba) {
+    prueba.onchange = (e) => {
+      let parkSelect = prueba.options.selectedIndex
+      const selectId = prueba[parkSelect].value
+      linkGo.setAttribute("href", `/${selectId}/park-detail`)
+      console.log(selectId)
+
+    }
+  }
+
+  // console.log(prueba.childNodes)
+
+  let newSelect = [...select]
+  newSelect.forEach(elm => {
+    elm.onclick = (e) => {
+      name = e.target.name
+
+      if (e.target.checked) {
+        let obj = {}
+        obj[elm.id] = "S"
+        id = elm.id
+        checked.push(obj)
+      } else if (!(e.target.checked)) {
+        checked.forEach((elm, idx) => {
+          if (Object.keys(elm)[0] == name) {
+            checked.splice(idx, 1)
+          }
+        })
+      }
+      console.log(checked)
+    }
+  })
+  if (boton) {
+    boton.onclick = (e) => {
+      axios.get("/api", {
+        params: {
+          info: checked
         }
       })
+        .then(response => {
+          const ids = []
+          response.data.park.forEach(park => ids.push(park._id))
+          console.log(prueba.children)
+          const arr = [...prueba.children]
+          arr.forEach(elm => {
+            console.log(elm.value)
+            if (!ids.includes(elm.value)) {
+              prueba.removeChild(elm)
+            }
+          })
+          const myMap = new google.maps.Map(document.getElementById('map'),
+            {
+              zoom: 9,
+              center: {
+                lat: 40.40,
+                lng: -3.7
+              }
+            }
+          )
+          placePlaces(response.data, myMap)
+        })
+        .catch(error => console.log(error))
 
     }
+
   }
 
-  document.getElementById("Bano").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_BANO: "S" })
-      console.log(checked)
+
+  // console.log('IronGenerator JS imported successfully!');
+}, false)
+function getAllParksFromTheAPI(myMap) {
+  axios.get("/api")
+    .then(response => {
+      // console.log(response)
+      placePlaces(response.data, myMap)
+    })
+    .catch(error => console.log(error))
+}
+function placePlaces(Park, myMap) {
+  Park.park.forEach(elm => {
+    const center = { lat: elm.location.coordinates[0], lng: elm.location.coordinates[1] }
+    new google.maps.Marker({
+      position: center,
+      map: myMap,
+      title: elm.DS_NOMBRE
+    });
+  })
+}
+function initMap() {
+  const myMap = new google.maps.Map(document.getElementById('map'),
+    {
+      zoom: 9,
+      center: {
+        lat: 40.40,
+        lng: -3.7
+      }
     }
-  }
-  document.getElementById("Barbacoa").onclick = (e) => {
-    if (e.target.checked) {
-      checked.push({ IT_BARBACOA: "S" })
-      console.log(checked)
-    }
-  }
+  )
 
-
-  console.log('IronGenerator JS imported successfully!');
-  console.log(checked)
-
-}, false);
+  getAllParksFromTheAPI(myMap)
+}

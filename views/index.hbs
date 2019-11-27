@@ -3,31 +3,34 @@
   <div class="row justify-content-around">
     <div class="col-4">
       <label for="Parque">Parque</label>
-      <select name="" id="">
+      <select name="" id="prueba">
+        <option selected disabled>Elije un Parque</option>
         {{#each parks}}
-        <option value="{{_id}}">{{DS_NOMBRE}}</option>
+        <option id="" value="{{_id}}">{{DS_NOMBRE}}</option>
         {{/each}}
       </select>
+      <a id="goTo">Ir a Parque</a>
     </div>
   </div>
   <div class="row justify-content-around">
     <div class="col-2">
-      <label for="Mesa">Mesa</label><input type="checkbox" name="Mesa" id="Mesa"><br>
-      <label for="Banco">Banco</label><input type="checkbox" name="Banco" id="Banco"><br>
-      <label for="Papelera">Papelera</label><input type="checkbox" name="Papelera" id="Papelera"><br>
-      <label for="Contenedor">Contenedor</label><input type="checkbox" name="Contenedor" id="Contenedor"><br>
-      <label for="Fuente">Fuente</label><input type="checkbox" name="Fuente" id="Fuente"><br>
-      <label for="Senal">Señal</label><input type="checkbox" name="Senal" id="Senal"><br>
-      <label for="Juegos">Juegos</label><input type="checkbox" name="Juegos" id="Juegos"><br>
-      <label for="Senda">Senda</label><input type="checkbox" name="Senda" id="Senda"><br>
-      <label for="Kiosco">Kiosco</label><input type="checkbox" name="Kiosco" id="Kiosco"><br>
-      <label for="Aseos">Aseos</label><input type="checkbox" name="Aseos" id="Aseos"><br>
-      <label for="Estacionamiento">Estacionamiento</label><input type="checkbox" name="Estacionamiento"
-        id="Estacionamiento"><br>
-      <label for="Bicis">Parking Bicis</label><input type="checkbox" name="Bicis" id="Bicis"><br>
-      <label for="Bano">Baño</label><input type="checkbox" name="Bano" id="Bano"><br>
-      <label for="Barbacoa">Barbacoa</label><input type="checkbox" name="Barbacoa" id="Barbacoa"><br>
-      <button type="submit">Buscar</button>
+      <label for="Mesa">Mesa</label><input class="find" type="checkbox" name="IT_MESA" id="IT_MESA"><br>
+      <label for="Banco">Banco</label><input class="find" type="checkbox" name="IT_BANCO" id="IT_BANCO"><br>
+      <label for="Papelera">Papelera</label><input class="find" type="checkbox" name="IT_PAPELERA" id="IT_PAPELERA"><br>
+      <label for="Contenedor">Contenedor</label><input class="find" type="checkbox" name="IT_CONTENEDOR"
+        id="IT_CONTENEDOR"><br>
+      <label for="Fuente">Fuente</label><input type="checkbox" class="find" name="IT_FUENTE" id="IT_FUENTE"><br>
+      <label for="Senal">Señal</label><input type="checkbox" class="find" name="IT_SENAL" id="IT_SENAL"><br>
+      <label for="Juegos">Juegos</label><input type="checkbox" class="find" name="IT_JUEGOS" id="IT_JUEGOS"><br>
+      <label for="Senda">Senda</label><input type="checkbox" class="find" name="IT_SENDA" id="IT_SENDA"><br>
+      <label for="Kiosco">Kiosco</label><input type="checkbox" class="find" name="IT_KIOSCO" id="IT_KIOSCO"><br>
+      <label for="Aseos">Aseos</label><input type="checkbox" class="find" name="IT_ASEOS" id="IT_ASEOS"><br>
+      <label for="Estacionamiento">Estacionamiento</label><input type="checkbox" class="find" name="IT_ESTACIONAMIENTO"
+        id="IT_ESTACIONAMIENTO"><br>
+      <label for="Bicis">Parking Bicis</label><input type="checkbox" class="find" name="IT_P_BICIS" id="IT_P_BICIS"><br>
+      <label for="Bano">Baño</label><input type="checkbox" class="find" name="IT_BANO" id="IT_BANO"><br>
+      <label for="Barbacoa">Barbacoa</label><input type="checkbox" class="find" name="IT_BARBACOA" id="IT_BARBACOA"><br>
+      <button id="button" type="submit">Buscar</button>
     </div>
     <div class="col-10">
       <figure class="heigth" id="map"></figure>
@@ -35,7 +38,8 @@
   </div>
 </div>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-<script src="/javascripts/main.js"></script>
+<script src="/javascripts/script.js"></script>
+<script src="/javascripts/getPark.js"></script>
 
 <script
   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDG88rK2sVwRDbZIJautuIZpNt32kAQpSU&callback=initMap"></script>
