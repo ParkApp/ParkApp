@@ -1,5 +1,9 @@
+h1 {
+  text-align: center; }
+
 body {
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+  font: 17px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: cornsilk; }
 
 a {
   color: #00B7FF; }
@@ -28,8 +32,49 @@ a {
   height: 400px; }
 
 .form-control {
-  height: 40px; }
+  height: 40px;
+  width: 900px; }
+
+.putadd {
+  margin-top: 40px; }
+
+.home-inner {
+  padding: 20px;
+  font: 15px; }
+
 .find {
-  padding-left: 10px; }
+  padding-left: 10px;
+  margin-left: 3px; }
+
+.form-h2 {
+  text-align: center;
+  padding-top: 18vh; }
+
+.container {
+  padding: 40px; }
+
+.login {
+  margin: 20px auto 40px auto; }
+
+.icons {
+  display: flex;
+  justify-content: center; }
+
+img {
+  width: 110px;
+  height: 80%;
+  opacity: .6; }
+
+.icn-middle {
+  margin: 0 80px; }
+
+.find {
+  padding: 20px;
+  font: 10px; }
+
+.button1 {
+  margin: 10px;
+  margin-bottom: 15px;
+  padding: 5px; }
 
 /*# sourceMappingURL=style.css.map */
