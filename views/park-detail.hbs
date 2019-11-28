@@ -2,9 +2,9 @@
 <div class="container">
   <div class="row justify-content-around">
     <div class="col 6">
-      <img src="{{park.IMAGEN}}" alt="foto del parque">
+      <img class="photo-size" src="{{park.IMAGEN}}" alt="foto del parque">
     </div>
-    <div class="col 4">
+    <div class="col 4 search">
       <ul>
         {{#with park}}
         <li>Acceso :{{DS_ACCESO}}</li>
@@ -30,23 +30,22 @@
 {{#if user}}
 <div class="container">
   <h2>Nuevo evento</h2>
-
   <div class="col-md-4">
     <form action="/park-detail?id={{park._id}}" method="POST">
       <div class="form-group">
         <label for="field1">Date</label>
-        <input type="text" class="form-control" id="field1" name="date">
+        <input type="text" class="form-control" id="field1" name="date" placeholder="17/11/2050">
       </div>
       <div class="form-group">
         <label for="field2"></label>Description</label>
-        <input type="text" class="form-control" id="field2" name="description">
+        <input type="text" class="form-control" id="field2" name="description" placeholder="What you want to do">
       </div>
       <div class="form-group">
         <label for="field3">Email</label>
-        <input type="text" class="form-control" id="field3" name="email" placeholder="separar con coma">
+        <input type="text" class="form-control" id="field3" name="email" placeholder='split with a ","'>
       </div>
       <br>
-      <button type="submit" class="btn btn-dark">Crear evento</button>
+      <button type="submit" class="button1">Crear evento</button>
     </form>
   </div>
   {{/if}}

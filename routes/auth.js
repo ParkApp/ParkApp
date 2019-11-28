@@ -65,7 +65,7 @@ router.get("/logout", (req, res) => {
 
 router.get("/profile", (req, res) => {
   User.findById(req.user._id)
-    .populate("event")
+    .populate({ path: "event", populate: { path: 'park' } })
     .then(theUser => {
       res.render("auth/profile", ({ user: theUser }))
     })
