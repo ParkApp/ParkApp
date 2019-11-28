@@ -1,53 +1,54 @@
-<h1>Buscador de Parques Comunidad de Madrid</h1>
+<h1>Find a Park in Comunidad de Madrid</h1>
 <div class="container">
   <div class="row justify-content-around">
     <div class="col-4">
-      <label for="Parque">Parque</label>
+      <label for="Parque">Park</label>
       <select name="" id="prueba">
-        <option selected disabled>Elije un Parque</option>
+        <option selected disabled>Select a park</option>
         {{#each parks}}
         <option id="" value="{{_id}}">{{DS_NOMBRE}}</option>
         {{/each}}
       </select>
       <div class="putadd"></div>
-      <a id="goTo">Ir a Parque</a>
+      <a class="button" id="goTo">Go to</a>
     </div>
   </div>
   <div class="home-inner"></div>
   <div class="row justify-content-around">
-    <div class="col-2">
-      <label for="Mesa">Mesa</label><input class="find" type="checkbox" name="IT_MESA" id="IT_MESA"><br>
-      <label for="Banco">Banco</label><input class="find" type="checkbox" name="IT_BANCO" id="IT_BANCO"><br>
-      <label for="Papelera">Papelera</label><input class="find" type="checkbox" name="IT_PAPELERA" id="IT_PAPELERA"><br>
-      <label for="Contenedor">Contenedor</label><input class="find" type="checkbox" name="IT_CONTENEDOR"
+    <div class="col-2 search">
+      <label for="Mesa">Table</label><input class="find" type="checkbox" name="IT_MESA" id="IT_MESA"><br>
+      <label for="Banco">Bench</label><input class="find" type="checkbox" name="IT_BANCO" id="IT_BANCO"><br>
+      <label for="Papelera">Trash Can</label><input class="find" type="checkbox" name="IT_PAPELERA"
+        id="IT_PAPELERA"><br>
+      <label for="Contenedor">Container</label><input class="find" type="checkbox" name="IT_CONTENEDOR"
         id="IT_CONTENEDOR"><br>
-      <label for="Fuente">Fuente</label><input type="checkbox" class="find" name="IT_FUENTE" id="IT_FUENTE"><br>
-      <label for="Senal">Señal</label><input type="checkbox" class="find" name="IT_SENAL" id="IT_SENAL"><br>
-      <label for="Juegos">Juegos</label><input type="checkbox" class="find" name="IT_JUEGOS" id="IT_JUEGOS"><br>
-      <label for="Senda">Senda</label><input type="checkbox" class="find" name="IT_SENDA" id="IT_SENDA"><br>
-      <label for="Kiosco">Kiosco</label><input type="checkbox" class="find" name="IT_KIOSCO" id="IT_KIOSCO"><br>
-      <label for="Aseos">Aseos</label><input type="checkbox" class="find" name="IT_ASEOS" id="IT_ASEOS"><br>
-      <label for="Estacionamiento">Estacionamiento</label><input type="checkbox" class="find" name="IT_ESTACIONAMIENTO"
+      <label for="Fuente">Fountain</label><input type="checkbox" class="find" name="IT_FUENTE" id="IT_FUENTE"><br>
+      <label for="Senal">Signs</label><input type="checkbox" class="find" name="IT_SENAL" id="IT_SENAL"><br>
+      <label for="Juegos">Playground</label><input type="checkbox" class="find" name="IT_JUEGOS" id="IT_JUEGOS"><br>
+      <label for="Senda">Path</label><input type="checkbox" class="find" name="IT_SENDA" id="IT_SENDA"><br>
+      <label for="Kiosco">Kiosk</label><input type="checkbox" class="find" name="IT_KIOSCO" id="IT_KIOSCO"><br>
+      <label for="Aseos">Toilets</label><input type="checkbox" class="find" name="IT_ASEOS" id="IT_ASEOS"><br>
+      <label for="Estacionamiento">Parking</label><input type="checkbox" class="find" name="IT_ESTACIONAMIENTO"
         id="IT_ESTACIONAMIENTO"><br>
-      <label for="Bicis">Parking Bicis</label><input type="checkbox" class="find" name="IT_P_BICIS" id="IT_P_BICIS"><br>
-      <label for="Bano">Baño</label><input type="checkbox" class="find" name="IT_BANO" id="IT_BANO"><br>
-      <label for="Barbacoa">Barbacoa</label><input type="checkbox" class="find" name="IT_BARBACOA" id="IT_BARBACOA"><br>
-      <button id="button"  class = "button1" type="submit">Buscar</button >
+      <label for="Bicis">Bike Park</label><input type="checkbox" class="find" name="IT_P_BICIS" id="IT_P_BICIS"><br>
+      <label for="Bano">Bathroom</label><input type="checkbox" class="find" name="IT_BANO" id="IT_BANO"><br>
+      <label for="Barbacoa">Barbecue</label><input type="checkbox" class="find" name="IT_BARBACOA" id="IT_BARBACOA"><br>
+      <button id="button" class="button1" type="submit">Search</button>
     </div>
-    <div class="col-10">
+    <div class="col-8">
       <figure class="heigth" id="map"></figure>
     </div>
   </div>
-  <div class="icons1"></div>
-  <img src="/images/parkImages/parque.png" alt="icon">
-  <img src="/images/parkImages/contenedor.png" alt="icon">
-  <img src="/images/parkImages/baño.png" alt="icon">
+  <div class="icons">
+    <img src="/images/parkImages/parque.png" alt="icon">
+    <img src="/images/parkImages/contenedor.png" alt="icon">
+    <img src="/images/parkImages/baño.png" alt="icon">
+  </div>
 </div>
 </div>
 
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 <script src="/javascripts/script.js"></script>
-<script src="/javascripts/getPark.js"></script>
 
 <script
   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDG88rK2sVwRDbZIJautuIZpNt32kAQpSU&callback=initMap"></script>

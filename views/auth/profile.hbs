@@ -1,29 +1,33 @@
-<h2>Perfil del Usuario</h2>
-<div class="column">
-  <form action="/auth/profile" method="post">
-    <label for="username">Nombre de Usuario</label>
-    <input type="text" name="username" value="{{user.username}}">
-    <button type="submit">Editar</button>
-  </form>
-</div>
-<br>
-<label for="favorits">Eventos</label>
-<div class="row justify-content-around">
-  {{#if user.event}}
-  {{#each user.event}}
-  <div class="col-4">
-    <label>Fecha</label>
-    <p>{{date}}</p>
-    <label>Descripción</label>
-    <p>{{description}}</p>
-    <label>Correos Invitados</label>
-    <ul>
-      {{#each email}}
-      <li>{{this}}</li>
-      {{/each}}
-    </ul>
-    <a href="/delete?id={{_id}}">Eliminar</a>
+<div class="container">
+  <h2>User Profile</h2>
+  <div class="column">
+    <form action="/auth/profile" method="post">
+      <label for="username">Username</label>
+      <input type="text" name="username" placeholder="{{user.username}}">
+      <button class="button1" type="submit">Edit</button>
+    </form>
   </div>
-  {{/each}}
-  {{/if}}
+  <br>
+  <label for="favorits">Event</label>
+  <div class="row justify-content-between">
+    {{#if user.event}}
+    {{#each user.event}}
+    <div class="col-3 search text-center m-2">
+      <label class="label">Date</label>
+      <p>{{date}}</p>
+      <label class="label">Location</label>
+      <p>{{park.DS_NOMBRE}}</p>
+      <label class="label">Description</label>
+      <p>{{description}}</p>
+      <label class="label">Guest email</label>
+      <ul>
+        {{#each email}}
+        <li>{{this}}</li>
+        {{/each}}
+      </ul>
+      <a class="button" href="/delete?id={{_id}}">Delete</a>
+    </div>
+    {{/each}}
+    {{/if}}
+  </div>
 </div>
