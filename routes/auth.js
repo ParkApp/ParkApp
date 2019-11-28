@@ -66,46 +66,15 @@ router.get("/logout", (req, res) => {
 router.get("/profile", (req, res) => {
   User.findById(req.user._id)
     .populate("event")
-    .then(theUser => res.render("auth/profile", ({ user: theUser })))
+    .then(theUser => {
+      res.render("auth/profile", ({ user: theUser }))
+    })
     .catch(err => console.log("error al recobrar info BBDD ", err))
 
 })
 router.post("/profile", (req, res) => {
-})
-
-router.get("/detail", (req, res) => {
-  Event.findById(req.params._id)
-    .then(theEvent => {
-      console.log("hola")
-      res.render('auth/detail-event', { event: theEvent })
-    })
-    .catch(err => console.log("Error consultando la BBDD:", err))
-})
-
-//--- Nuevo evento----
-router.get('/add', (req, res) => {
-  res.render('auth/new-event', { user: req.user })
-  //console.log(req.user)
-})
-
-//-- Nuevo evento enviar formulario--
-
-router.post('/add', (req, res) => {
-
-  const { date, description, email } = req.body
-  const user = req.user._id
-  Event.create({ date, description, email, user })
-
-    .then(event => {
-      console.log(event)
-      User.findByIdAndUpdate(user, { $addToSet: { event: event._id } })
-        .then(user => {
-
-          res.redirect('/')
-        })
-
-    })
-    .catch(err => 'error:' + err)
-
+  User.findByIdAndUpdate(req.user._id, { username: req.body.username })
+    .then(theUser => res.redirect('/'))
+    .catch(err => console.log("error al actualizar el usuario", err))
 })
 module.exports = router;
