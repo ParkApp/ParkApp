@@ -2,7 +2,7 @@ require('dotenv').config()
 const mongoose = require("mongoose")
 const Park = require('../models/Park.model')
 
-mongoose.connect(`${process.env.BDURL}`)
+mongoose.connect("mongodb://localhost/parkapp")
 Park.collection.drop()
 
 const parks = [
