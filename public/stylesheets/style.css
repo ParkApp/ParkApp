@@ -129,4 +129,8 @@ a {
   font-style: italic;
   color: #272343; }
 
+.navbar-brand img {
+  width: 50px;
+  height: 50px; }
+
 /*# sourceMappingURL=style.css.map */
