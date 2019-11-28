@@ -1,18 +1,29 @@
 <h2>Perfil del Usuario</h2>
 <div class="column">
-  <label for="username">Nombre de Usuario</label>
-  <input type="text" name="username" value="{{user.username}}">
-  <button type="submit">Editar</button>
+  <form action="/auth/profile" method="post">
+    <label for="username">Nombre de Usuario</label>
+    <input type="text" name="username" value="{{user.username}}">
+    <button type="submit">Editar</button>
+  </form>
 </div>
 <br>
-<label for="favorits">Favoritos</label>
+<label for="favorits">Eventos</label>
 <div class="row justify-content-around">
-  {{!-- <p>HOLAAA</p> --}}
-
-  {{!-- <p>{{user.event.email}}</p> --}}
-  <div class="col-3">
-    {{#each user.event}}
-    <a href="#">{{email}}</a>
-    {{/each}}
+  {{#if user.event}}
+  {{#each user.event}}
+  <div class="col-4">
+    <label>Fecha</label>
+    <p>{{date}}</p>
+    <label>Descripción</label>
+    <p>{{description}}</p>
+    <label>Correos Invitados</label>
+    <ul>
+      {{#each email}}
+      <li>{{this}}</li>
+      {{/each}}
+    </ul>
+    <a href="/delete?id={{_id}}">Eliminar</a>
   </div>
+  {{/each}}
+  {{/if}}
 </div>

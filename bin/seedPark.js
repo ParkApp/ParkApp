@@ -13,7 +13,7 @@ const parks = [
     CD_TIPO: "C",
     DS_ACCESO: "M-608, entrada a la Pedriza / Bueno",
     DS_MUNICIPIO: "Manzanares El Real",
-    IMAGEN: "./images/parkImages/Rio-cantocochino-la-pedriza-madrid.jpg",
+    IMAGEN: "/images/parkImages/Rio-cantocochino-la-pedriza-madrid.jpg",
     "IT_MESA": "S",
     "IT_BANCO": "S",
     "IT_PAPELERA": "S",
@@ -454,7 +454,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.823569, -3.961046 ]
+      coordinates: [40.823569, -3.961046]
     }
   },
   {
@@ -591,7 +591,7 @@ const parks = [
     IT_BIOSALUDAB: "N",
     IT_BANO: "N",
     IT_PANELES: "N",
-    IT_BARBACOA: "N", 
+    IT_BARBACOA: "N",
     location: {
       type: "Point",
       coordinates: [41.107726, -3.472032]
@@ -706,7 +706,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.592154, -4.140033 ]
+      coordinates: [40.592154, -4.140033]
     }
   },
   {
@@ -874,7 +874,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.380081, -4.343590 ]
+      coordinates: [40.380081, -4.343590]
     }
   },
   {
@@ -1210,7 +1210,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.366713, -3.485792 ]
+      coordinates: [40.366713, -3.485792]
     }
   },
   {
@@ -1293,7 +1293,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.498304, -3.969306 ]
+      coordinates: [40.498304, -3.969306]
     }
   },
   {
@@ -1377,7 +1377,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.832216, -3.837030 ]
+      coordinates: [40.832216, -3.837030]
     }
   },
   {
@@ -1487,9 +1487,9 @@ const parks = [
     IT_BANO: "N",
     IT_PANELES: "N",
     IT_BARBACOA: "N",
-     location: {
+    location: {
       type: "Point",
-       coordinates: [40.483981, -3.358867]
+      coordinates: [40.483981, -3.358867]
     }
   },
   {
@@ -1545,7 +1545,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.659591, -4.029744 ]
+      coordinates: [40.659591, -4.029744]
     }
   },
   {
@@ -1573,7 +1573,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.639346, -4.025779 ]
+      coordinates: [40.639346, -4.025779]
     }
   },
   {
@@ -1601,7 +1601,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.476485, -3.363861 ]
+      coordinates: [40.476485, -3.363861]
     }
   },
   {
@@ -1713,7 +1713,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.269724, -3.434256 ]
+      coordinates: [40.269724, -3.434256]
     }
   },
   {
@@ -1741,7 +1741,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.288246, -3.449604 ]
+      coordinates: [40.288246, -3.449604]
     }
   },
   {
@@ -1769,7 +1769,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.713515, -3.999950 ]
+      coordinates: [40.713515, -3.999950]
     }
   },
   {
@@ -1797,8 +1797,8 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.409714, -3.860927 ]
-    } 
+      coordinates: [40.409714, -3.860927]
+    }
   },
   {
     CDID: 16,
@@ -1826,7 +1826,7 @@ const parks = [
     location: {
       type: "Point",
       coordinates: [40.715051, -3.919376]
-    } 
+    }
   },
   {
     CDID: 17,
@@ -1881,7 +1881,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.858886, -3.685939 ]
+      coordinates: [40.858886, -3.685939]
     }
   },
   {
@@ -1906,7 +1906,7 @@ const parks = [
     IT_BIOSALUDAB: "N",
     IT_BANO: "N",
     IT_PANELES: "N",
-    IT_BARBACOA: "N", 
+    IT_BARBACOA: "N",
     location: {
       type: "Point",
       coordinates: [40.373899, -3.614927]
@@ -1993,7 +1993,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.341961, -3.384049 ]
+      coordinates: [40.341961, -3.384049]
     }
   },
   {
@@ -2075,9 +2075,9 @@ const parks = [
     IT_BANO: "N",
     IT_PANELES: "N",
     IT_BARBACOA: "N",
-     location: {
+    location: {
       type: "Point",
-       coordinates: [40.264435, -3.235201]
+      coordinates: [40.264435, -3.235201]
     }
   },
   {
@@ -2102,10 +2102,10 @@ const parks = [
     IT_BIOSALUDAB: "N",
     IT_BANO: "N",
     IT_PANELES: "N",
-    IT_BARBACOA: "N", 
+    IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.744638, -4.042186 ]
+      coordinates: [40.744638, -4.042186]
     }
   },
   {
@@ -2133,7 +2133,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.463768, -3.708301 ]
+      coordinates: [40.463768, -3.708301]
     }
   },
   {
@@ -2161,7 +2161,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.126833, -3.426036 ]
+      coordinates: [40.126833, -3.426036]
     }
   },
   {
@@ -2357,7 +2357,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.569556, -4.032148 ]
+      coordinates: [40.569556, -4.032148]
     }
   },
   {
@@ -2385,7 +2385,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.563100, -4.017347 ]
+      coordinates: [40.563100, -4.017347]
     }
   },
   {
@@ -2581,7 +2581,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [41.066844, -3.588698 ]
+      coordinates: [41.066844, -3.588698]
     }
   },
   {
@@ -2609,7 +2609,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.627721, -3.895613 ]
+      coordinates: [40.627721, -3.895613]
     }
   },
   {
@@ -2637,7 +2637,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.601339, -3.914877 ]
+      coordinates: [40.601339, -3.914877]
     }
   },
   {
@@ -2774,7 +2774,7 @@ const parks = [
     IT_BIOSALUDAB: "N",
     IT_BANO: "N",
     IT_PANELES: "N",
-    IT_BARBACOA: "N" ,
+    IT_BARBACOA: "N",
     location: {
       type: "Point",
       coordinates: [40.726891, -3.869549]
@@ -2835,7 +2835,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.321197, -3.722561 ]
+      coordinates: [40.321197, -3.722561]
     }
   },
   {
@@ -2864,7 +2864,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.279827, -4.316327 ]
+      coordinates: [40.279827, -4.316327]
     }
   },
   {
@@ -2893,7 +2893,7 @@ const parks = [
     IT_BARBACOA: "S",
     location: {
       type: "Point",
-      coordinates: [40.489228, -3.379926 ]
+      coordinates: [40.489228, -3.379926]
     }
   },
   {
@@ -2922,7 +2922,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.698728, -3.968917 ]
+      coordinates: [40.698728, -3.968917]
     }
   },
   {
@@ -2980,7 +2980,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.539634, -3.639377 ]
+      coordinates: [40.539634, -3.639377]
     }
   },
   {
@@ -3035,10 +3035,10 @@ const parks = [
     IT_BIOSALUDAB: "N",
     IT_BANO: "N",
     IT_PANELES: "N",
-    IT_BARBACOA: "N", 
+    IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.309328,  -4.492179]
+      coordinates: [40.309328, -4.492179]
     }
   },
   {
@@ -3067,7 +3067,7 @@ const parks = [
     IT_BARBACOA: "S",
     location: {
       type: "Point",
-      coordinates: [40.650887,  -4.006619]
+      coordinates: [40.650887, -4.006619]
     }
   },
   {
@@ -3125,7 +3125,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.464710, -3.335228 ]
+      coordinates: [40.464710, -3.335228]
     }
   },
   {
@@ -3151,10 +3151,10 @@ const parks = [
     IT_BIOSALUDAB: "S",
     IT_BANO: "N",
     IT_PANELES: "N",
-    IT_BARBACOA: "N", 
+    IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.264304,  -3.919913]
+      coordinates: [40.264304, -3.919913]
     }
   },
   {
@@ -3183,7 +3183,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.302556,  -3.291016]
+      coordinates: [40.302556, -3.291016]
     }
   },
   {
@@ -3209,10 +3209,10 @@ const parks = [
     IT_BIOSALUDAB: "N",
     IT_BANO: "N",
     IT_PANELES: "N",
-    IT_BARBACOA: "N", 
+    IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.543290,  -3.454238]
+      coordinates: [40.543290, -3.454238]
     }
   },
   {
@@ -3241,8 +3241,8 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.337140,  -3.234444]
-    }  
+      coordinates: [40.337140, -3.234444]
+    }
   },
   {
     CDID: 317,
@@ -3270,7 +3270,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.562249,  -3.454938]
+      coordinates: [40.562249, -3.454938]
     }
   },
   {
@@ -3300,7 +3300,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.524007,  -3.594662]
+      coordinates: [40.524007, -3.594662]
     }
   },
   {
@@ -3329,8 +3329,8 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.440956,  -3.627133]
-    } 
+      coordinates: [40.440956, -3.627133]
+    }
   },
   {
     CDID: 320,
@@ -3355,10 +3355,10 @@ const parks = [
     IT_BIOSALUDAB: "S",
     IT_BANO: "S",
     IT_PANELES: "S",
-    IT_BARBACOA: "S", 
+    IT_BARBACOA: "S",
     location: {
       type: "Point",
-      coordinates: [40.321003,  -4.198512]
+      coordinates: [40.321003, -4.198512]
     }
   },
   {
@@ -3387,7 +3387,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.275914,  -3.747949]
+      coordinates: [40.275914, -3.747949]
     }
   },
   {
@@ -3416,7 +3416,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.248102,  -3.824215]
+      coordinates: [40.248102, -3.824215]
     }
   },
   {
@@ -3445,7 +3445,7 @@ const parks = [
     IT_BARBACOA: "N",
     location: {
       type: "Point",
-      coordinates: [40.385855,  -3.415759]
+      coordinates: [40.385855, -3.415759]
     }
   },
   {
@@ -3477,7 +3477,7 @@ const parks = [
       coordinates: [40.300264, -3.509606]
     }
   },
-  
+
 ]
 
 Park.create(parks, (err) => {
